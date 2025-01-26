@@ -13,7 +13,7 @@
     <itunes:author>Luis Acosta</itunes:author> <!-- Replace with your name -->
     <itunes:owner>
       <itunes:name>Luis Acosta</itunes:name> <!-- Replace with your name -->
-      <itunes:email>tluis.acosta.falcon@gmail.com</itunes:email> <!-- Replace with your email -->
+      <itunes:email>luis.acosta.falcon@gmail.com</itunes:email> <!-- Replace with your email -->
     </itunes:owner>
     <itunes:image href="https://acosta1991.github.io/newsletter2podcast/podcast-cover.jpg" /> <!-- Replace with your cover art URL -->
     <itunes:explicit>no</itunes:explicit>
