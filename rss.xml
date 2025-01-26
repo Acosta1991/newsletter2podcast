@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 26 Jan 2025 18:40:23 GMT</lastBuildDate>
 
     <!-- Required iTunes Tags -->
-    <itunes:author>Tu Nombre</itunes:author> <!-- Replace with your name -->
+    <itunes:author>Luis Acosta</itunes:author> <!-- Replace with your name -->
     <itunes:owner>
-      <itunes:name>Tu Nombre</itunes:name> <!-- Replace with your name -->
-      <itunes:email>tuemail@example.com</itunes:email> <!-- Replace with your email -->
+      <itunes:name>Luis Acosta</itunes:name> <!-- Replace with your name -->
+      <itunes:email>tluis.acosta.falcon@gmail.com</itunes:email> <!-- Replace with your email -->
     </itunes:owner>
     <itunes:image href="https://acosta1991.github.io/newsletter2podcast/podcast-cover.jpg" /> <!-- Replace with your cover art URL -->
     <itunes:explicit>no</itunes:explicit>
