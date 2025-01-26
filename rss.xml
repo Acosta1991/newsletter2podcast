@@ -17,9 +17,6 @@
     </itunes:owner>
     <itunes:image href="https://acosta1991.github.io/newsletter2podcast/podcast-cover.jpg" /> <!-- Replace with your cover art URL -->
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Society &amp; Culture">
-      <itunes:category text="Personal Journals" />
-    </itunes:category>
 
     <!-- Podcast Episode -->
     <item>
