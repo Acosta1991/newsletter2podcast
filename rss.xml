@@ -4,5 +4,14 @@
     <title>My Podcast</title>
     <link>https://acosta1991.github.io/newsletter2podcast/</link>
     <description>My awesome podcast</description>
-  </channel>
+  
+<item>
+  <title>Episode Title</title>
+  <description>Episode description goes here</description>
+  <pubDate>Sun, 26 Jan 2025 18:40:23 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&id=18PgZMLShT0eq64XkM9tZ2k6aW22X5M3N" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1737916823143</guid>
+</item>
+
+</channel>
 </rss>
