@@ -31,5 +31,14 @@
 
 
 
+
+<item>
+  <title>$('Titulo').first().json.message.content</title>
+  <description>$('OpenAI4').first().json.message.content</description>
+  <pubDate>Sat, 01 Feb 2025 19:33:35 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sc0xt7GYqufcwQxXY71iJ9iiLVpQbqx0" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1738438415530</guid>
+</item>
+
 </channel>
 </rss>
