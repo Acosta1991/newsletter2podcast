@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <!-- Basic Podcast Information -->
-    <title>Mi Podcast</title>
+    <title>Conducien el Futuro</title>
     <link>https://acosta1991.github.io/newsletter2podcast/</link>
     <description>Conduciendo el Futuro es tu fuente de información exclusiva sobre la industria automotriz, diseñada para managers y líderes que quieren mantenerse a la vanguardia. En cada episodio, analizamos las últimas tendencias, exploramos innovaciones disruptivas y ofrecemos estrategias de gestión que impulsan el éxito en un sector en constante evolución. Desde entrevistas con expertos hasta reportajes de actualidad, este podcast te brinda las herramientas para transformar desafíos en oportunidades y liderar el cambio en tu organización. ¡Acompáñanos y acelera hacia el futuro del motor de negocios!</description>
     <language>es-es</language>
@@ -15,7 +15,7 @@
       <itunes:name>Luis Acosta</itunes:name> <!-- Replace with your name -->
       <itunes:email>luis.acosta.falcon@gmail.com</itunes:email> <!-- Replace with your email -->
     </itunes:owner>
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/podcast-cover.jpg" /> <!-- Replace with your cover art URL -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/podcast-cover.png" /> <!-- Replace with your cover art URL -->
     <itunes:explicit>no</itunes:explicit>
 
     <!-- Podcast Episode -->
