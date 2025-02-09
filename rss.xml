@@ -6,7 +6,7 @@
     <title>Conduciendo al Futuro</title>
     <link>https://acosta1991.github.io/newsletter2podcast/</link>
     <description>Conduciendo el Futuro es tu fuente de información exclusiva sobre la industria automotriz, diseñada para managers y líderes que quieren mantenerse a la vanguardia. En cada episodio, analizamos las últimas tendencias, exploramos innovaciones disruptivas y ofrecemos estrategias de gestión que impulsan el éxito en un sector en constante evolución. Desde entrevistas con expertos hasta reportajes de actualidad, este podcast te brinda las herramientas para transformar desafíos en oportunidades y liderar el cambio en tu organización. ¡Acompáñanos y acelera hacia el futuro del motor de negocios!</description>
-    <language>en</language>
+    <language>es</language>
     
     <!-- iTunes-specific metadata -->
     <itunes:author>Conduciendo al Futuro</itunes:author>
@@ -19,7 +19,7 @@
     <itunes:image href="https://example.com/podcast-cover.png" />
     
     <!-- Atom self-reference -->
-    <atom:link href="https://newsletter2podcast.com/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss.xml" rel="self" type="application/rss+xml" />
     
     <!-- Example item (episode) -->   
   
