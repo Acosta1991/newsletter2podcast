@@ -5,7 +5,7 @@
     <!-- Basic Podcast Information -->
     <title>Mi Podcast</title>
     <link>https://acosta1991.github.io/newsletter2podcast/</link>
-    <description>Mi increíble podcast sobre temas fascinantes.</description>
+    <description>Conduciendo el Futuro es tu fuente de información exclusiva sobre la industria automotriz, diseñada para managers y líderes que quieren mantenerse a la vanguardia. En cada episodio, analizamos las últimas tendencias, exploramos innovaciones disruptivas y ofrecemos estrategias de gestión que impulsan el éxito en un sector en constante evolución. Desde entrevistas con expertos hasta reportajes de actualidad, este podcast te brinda las herramientas para transformar desafíos en oportunidades y liderar el cambio en tu organización. ¡Acompáñanos y acelera hacia el futuro del motor de negocios!</description>
     <language>es-es</language>
     <lastBuildDate>Sun, 26 Jan 2025 18:40:23 GMT</lastBuildDate>
 
@@ -19,71 +19,7 @@
     <itunes:explicit>no</itunes:explicit>
 
     <!-- Podcast Episode -->
-    <item>
-      <title>Episodio 1: Mi primer episodio</title>
-      <description>Descripción del episodio aquí.</description>
-      <pubDate>Sun, 26 Jan 2025 18:40:23 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18PgZMLShT0eq64XkM9tZ2k6aW22X5M3N" length="1234567" type="audio/mpeg" />
-      <guid isPermaLink="false">1737916823143</guid>
-      <itunes:duration>00:10:35</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
 
-
-
-
-<item>
-  <title>$('Titulo').first().json.message.content</title>
-  <description>$('OpenAI4').first().json.message.content</description>
-  <pubDate>Sat, 01 Feb 2025 19:33:35 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sc0xt7GYqufcwQxXY71iJ9iiLVpQbqx0" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1738438415530</guid>
-</item>
-
-
-<item>
-  <title>"Tus Noticias: Tu Boletín Personalizado de Actualidad"</title>
-  <description>Bienvenidos a "Tus Noticias", el podcast informativo que te permite personalizar tu experiencia diaria de noticias. En cada episodio, exploramos las historias más relevantes adaptadas a tus intereses, brindándote titulares impactantes, resúmenes claros y análisis reflexivos sobre los temas que importan. Desde tecnología hasta finanzas y medios de comunicación, nuestro programa cubre lo último en innovaciones y acontecimientos globales. Únete a nosotros para descubrir anuncios fascinantes, como la nueva suite de inteligencia artificial de Amazon Web Services, la evolución de YouTube, los recientes avances de PayPal, el lanzamiento del satélite español SPAINSAT NG I, y el impacto de la startup DeepSeek en el mercado de IA. Te invitamos a suscribirte y disfrutar de un boletín de noticias totalmente personalizable. ¡Comencemos a informarnos juntos!</description>
-  <pubDate>Sat, 01 Feb 2025 19:53:49 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=12XqG8Ut-xxdgMTCO_BuL1MK9W9VEMjLK" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1738439629379</guid>
-</item>
-
-
-<item>
-  <title>"Movilidad Personalizada: Tendencias y Noticias en la Industria Automotriz"</title>
-  <description>Bienvenidos a "Tus Noticias", el podcast donde la información se adapta a ti. Cada episodio te ofrece un boletín de noticias personalizado, seleccionando las historias más relevantes según tus intereses. En esta entrega, nos enfocamos en la industria automotriz, explorando las innovaciones y caminos estratégicos de gigantes como Hyundai, Kia, Volkswagen y KGM, además de analizar el mercado de vehículos en Asia y Europa, y los cambios en las políticas energéticas de EE.UU. Únete a nosotros y mantente informado sobre lo que realmente importa para ti. ¡Suscríbete y recibe tu actualización diaria de noticias!</description>
-  <pubDate>Sat, 01 Feb 2025 20:12:03 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cLO-0Pn5H2Uw5pAfs6NxadQT1KSgK2iw" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1738440723539</guid>
-</item>
-
-
-<item>
-  <title>"Tus Noticias: Inversiones y Innovaciones en el Ecosistema Startup Español"</title>
-  <description>Bienvenido a "Tus Noticias", el podcast diario donde tú eliges lo que deseas escuchar. Diseñado para adaptarse a tus intereses, enviamos un boletín de noticias personalizado basado en los enlaces que nos compartas. En cada episodio, analizamos las historias más relevantes para ti, manteniéndote bien informado sobre los temas que realmente te importan. Desde el vibrante ecosistema de startups en España hasta los avances en inteligencia artificial y las últimas tendencias en el ámbito tecnológico, nuestro objetivo es ofrecerte contenido a medida que resuene contigo. Únete a nosotros para recibir actualizaciones diarias y no olvides suscribirte para no perderte nada de lo que verdaderamente te interesa. ¡Bienvenido a "Tus Noticias"!</description>
-  <pubDate>Sun, 02 Feb 2025 08:39:13 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GZUAmR2kBfDjAeWa9JwMgaAbaHkc9IpO" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1738485553359</guid>
-</item>
-
-
-<item>
-  <title>**Tus Noticias: Mantente Informado Cada Día**</title>
-  <description>Bienvenidos a **Tus Noticias**, tu boletín diario de noticias personalizado que te mantiene al tanto de los temas que realmente importan. Cada episodio selecciona las historias más relevantes de tecnología, salud, economía y entretenimiento, adaptándose a tus intereses y necesidades informativas. Desde avances en inteligencia artificial y campañas de salud pública, hasta el crecimiento económico y estrenos cinematográficos, aquí encontrarás un resumen conciso y atractivo de lo que está sucediendo en el mundo. Únete a nosotros para mantenerte informado y no te pierdas la oportunidad de recibir actualizaciones diarias que se ajusten a lo que más te interesa. ¡Suscríbete y acompáñanos en esta emocionante aventura informativa!</description>
-  <pubDate>Fri, 07 Feb 2025 22:10:48 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mkYIE5ofFKl9PiXkAf__B4sPByyIJ-qS" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1738966248423</guid>
-</item>
-
-
-<item>
-  <title>"Porsche en Crisis: Desafíos en la Transición hacia los Vehículos Eléctricos"</title>
-  <description>Bienvenido a **Tus Noticias**, el podcast donde la información cobra vida según tus preferencias. Aquí te ofrecemos un boletín de noticias personalizado, diseñado exclusivamente para ti. Solo tienes que enviarnos una lista de enlaces con los artículos que más te interesan, y nosotros creamos un podcast a medida que resalta las noticias más relevantes. Cada episodio te brinda un análisis profundo y reflexiones sobre los temas que seleccionaste, desde tendencias en tecnología hasta eventos deportivos de alto impacto. Únete a nosotros para mantenerte informado de manera fácil y personalizada. ¡No olvides suscribirte y transformar la forma en que consumes noticias!</description>
-  <pubDate>Sun, 09 Feb 2025 08:19:08 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U9UUIqmvmg2ejmlgV5XeHgfsfoUZsqyo" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1739089148368</guid>
-</item>
 
 </channel>
 </rss>
