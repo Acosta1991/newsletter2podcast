@@ -3,35 +3,25 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Newsletter to Podcast</title>
-    <link>https://newsletter2podcast.com</link>
-    <description>A description of the podcast feed generated from your newsletter.</description>
+    <title>Conduciendo al Futuro</title>
+    <link>https://acosta1991.github.io/newsletter2podcast/</link>
+    <description>Conduciendo el Futuro es tu fuente de información exclusiva sobre la industria automotriz, diseñada para managers y líderes que quieren mantenerse a la vanguardia. En cada episodio, analizamos las últimas tendencias, exploramos innovaciones disruptivas y ofrecemos estrategias de gestión que impulsan el éxito en un sector en constante evolución. Desde entrevistas con expertos hasta reportajes de actualidad, este podcast te brinda las herramientas para transformar desafíos en oportunidades y liderar el cambio en tu organización. ¡Acompáñanos y acelera hacia el futuro del motor de negocios!</description>
     <language>en</language>
     
     <!-- iTunes-specific metadata -->
-    <itunes:author>Acosta</itunes:author>
-    <itunes:subtitle>A subtitle for your podcast</itunes:subtitle>
-    <itunes:summary>A longer summary that explains what the podcast is about.</itunes:summary>
+    <itunes:author>Conduciendo al Futuro</itunes:author>
+    <itunes:summary>Conduciendo el Futuro es tu fuente de información exclusiva sobre la industria automotriz, diseñada para managers y líderes que quieren mantenerse a la vanguardia. En cada episodio, analizamos las últimas tendencias, exploramos innovaciones disruptivas y ofrecemos estrategias de gestión que impulsan el éxito en un sector en constante evolución. Desde entrevistas con expertos hasta reportajes de actualidad, este podcast te brinda las herramientas para transformar desafíos en oportunidades y liderar el cambio en tu organización. ¡Acompáñanos y acelera hacia el futuro del motor de negocios!</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Acosta</itunes:name>
-      <itunes:email>acosta@example.com</itunes:email>
+      <itunes:email>luis.acosta.falcon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://example.com/image.jpg" />
+    <itunes:image href="https://example.com/podcast-cover.png" />
     
     <!-- Atom self-reference -->
     <atom:link href="https://newsletter2podcast.com/rss.xml" rel="self" type="application/rss+xml" />
     
-    <!-- Example item (episode) -->
-    <item>
-      <title>Newsletter Issue #1</title>
-      <description>This is the description for issue #1.</description>
-      <pubDate>Tue, 10 Jan 2023 10:00:00 GMT</pubDate>
-      <guid isPermaLink="false">issue-1</guid>
-      <enclosure url="https://example.com/audio/issue1.mp3" length="12345678" type="audio/mpeg" />
-      <itunes:duration>00:15:30</itunes:duration>
-    </item>
-    
+    <!-- Example item (episode) -->   
   
 <item>
   <title>"Conduciendo el Futuro: Innovaciones y Tendencias en el Sector Automotriz"</title>
