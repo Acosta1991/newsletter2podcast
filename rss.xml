@@ -16,7 +16,7 @@
       <itunes:name>Acosta</itunes:name>
       <itunes:email>luis.acosta.falcon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/podcast-cover.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/presized_podcast_cover.png" />
     
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss.xml" rel="self" type="application/rss+xml" />
