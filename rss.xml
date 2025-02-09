@@ -32,5 +32,16 @@
       <itunes:duration>00:15:30</itunes:duration>
     </item>
     
-  </channel>
+  
+<item>
+  <title>"Conduciendo el Futuro: Innovaciones y Tendencias en el Sector Automotriz"</title>
+  <description>¡Bienvenidos a "Conduciendo el Futuro"! Este podcast es tu compañero ideal para explorar las últimas novedades del sector automotriz y temas relacionados, diseñado especialmente para líderes y profesionales que buscan mantenerse informados. En cada episodio, te ofrecemos un boletín de noticias personalizado que se adapta a tus intereses y necesidades, asegurando que esté al día con las tendencias más importantes que impactan la industria. 
+
+Adéntrate con nosotros en discusiones sobre movilidad económica, el papel transformador de la inteligencia artificial en la toma de decisiones, el fascinante mercado de coches de colección y el ascenso económico de Asia. También exploraremos innovaciones en el acceso a la salud, con historias inspiradoras de líderes como Jonathan Sudharta de Halodoc. Únete a nuestro viaje hacia el futuro y suscríbete para no perderte nuestras actualizaciones personalizadas. ¡Prepárate para conducir hacia el conocimiento y la innovación!</description>
+  <pubDate>Sun, 09 Feb 2025 09:04:31 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XQpVlBXmkenhDi8IcFdgKc8sWjvngSrw" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1739091871795</guid>
+</item>
+
+</channel>
 </rss>
