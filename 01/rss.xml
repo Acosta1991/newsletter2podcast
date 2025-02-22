@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N2P: El Pais | Negocios </title>
+    <title>N2P: El Pais | Negocios</title>
     <link>https://acosta1991.github.io/newsletter2podcast/</link>
     <description>Newsletter Empresas es un podcast diario en el que dos expertos, Juan y Carlos, os invitan a sumergiros en el análisis de las noticias más relevantes del mundo empresarial, extraídas directamente de la newsletter de "Empresas" del prestigioso periódico "El País". Con un estilo ameno y conversacional, nuestros presentadores ofrecen reflexiones y comentarios espontáneos sobre los acontecimientos tanto a nivel nacional como internacional, aportando perspectivas frescas sobre el impacto futuro de cada noticia. ¡Suscribíos y mantenedos al día en el dinámico universo de la información empresarial!</description>
     <language>es</language>
@@ -16,14 +16,33 @@
       <itunes:name>Acosta</itunes:name>
       <itunes:email>luis.acosta.falcon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="hhttps://www.darteformacion.es/wp-content/uploads/2021/09/master-coaching-online-medios8.jpg" />
     
+    <!-- Fixed the image URL -->
+    <itunes:image href="https://www.darteformacion.es/wp-content/uploads/2021/09/master-coaching-online-medios8.jpg" />
+
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
-    
-    <!-- Example item (episode) -->   
 
+    <!-- Example item (episode) -->
+    <item>
+        <title>Episodio 1: La economía en tiempos de incertidumbre</title>
+        <description>Juan y Carlos analizan cómo la incertidumbre económica afecta a las empresas y qué medidas pueden tomar los empresarios para adaptarse.</description>
+        <link>https://acosta1991.github.io/newsletter2podcast/episodio1</link>
+        <guid isPermaLink="false">ep1-2025</guid>
+        <pubDate>Sat, 22 Feb 2025 12:00:00 GMT</pubDate>
+        <enclosure url="https://your-audio-url.com/episodio1.mp3" length="12345678" type="audio/mpeg"/>
+        <itunes:duration>10:30</itunes:duration>
+    </item>
 
+    <item>
+        <title>Episodio 2: Tendencias en el sector tecnológico</title>
+        <description>Exploramos las tendencias más innovadoras en el sector tecnológico y su impacto en las empresas.</description>
+        <link>https://acosta1991.github.io/newsletter2podcast/episodio2</link>
+        <guid isPermaLink="false">ep2-2025</guid>
+        <pubDate>Sat, 29 Feb 2025 12:00:00 GMT</pubDate>
+        <enclosure url="https://your-audio-url.com/episodio2.mp3" length="13456789" type="audio/mpeg"/>
+        <itunes:duration>15:45</itunes:duration>
+    </item>
 
-</channel>
+  </channel>
 </rss>
