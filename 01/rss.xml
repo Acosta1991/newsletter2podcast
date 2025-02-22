@@ -24,25 +24,6 @@
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
-    <item>
-        <title>Episodio 1: La economía en tiempos de incertidumbre</title>
-        <description>Juan y Carlos analizan cómo la incertidumbre económica afecta a las empresas y qué medidas pueden tomar los empresarios para adaptarse.</description>
-        <link>https://acosta1991.github.io/newsletter2podcast/episodio1</link>
-        <guid isPermaLink="false">ep1-2025</guid>
-        <pubDate>Sat, 22 Feb 2025 12:00:00 GMT</pubDate>
-        <enclosure url="https://your-audio-url.com/episodio1.mp3" length="12345678" type="audio/mpeg"/>
-        <itunes:duration>10:30</itunes:duration>
-    </item>
-
-    <item>
-        <title>Episodio 2: Tendencias en el sector tecnológico</title>
-        <description>Exploramos las tendencias más innovadoras en el sector tecnológico y su impacto en las empresas.</description>
-        <link>https://acosta1991.github.io/newsletter2podcast/episodio2</link>
-        <guid isPermaLink="false">ep2-2025</guid>
-        <pubDate>Sat, 29 Feb 2025 12:00:00 GMT</pubDate>
-        <enclosure url="https://your-audio-url.com/episodio2.mp3" length="13456789" type="audio/mpeg"/>
-        <itunes:duration>15:45</itunes:duration>
-    </item>
 
   
 <item>
