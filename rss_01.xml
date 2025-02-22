@@ -3,26 +3,28 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N2P: El Pais | Negocios </title>
+    <title>Conduciendo el Futuro</title>
     <link>https://acosta1991.github.io/newsletter2podcast/</link>
-    <description>Newsletter Empresas es un podcast diario en el que dos expertos, Juan y Carlos, os invitan a sumergiros en el análisis de las noticias más relevantes del mundo empresarial, extraídas directamente de la newsletter de "Empresas" del prestigioso periódico "El País". Con un estilo ameno y conversacional, nuestros presentadores ofrecen reflexiones y comentarios espontáneos sobre los acontecimientos tanto a nivel nacional como internacional, aportando perspectivas frescas sobre el impacto futuro de cada noticia. ¡Suscribíos y mantenedos al día en el dinámico universo de la información empresarial!</description>
+    <description>Conduciendo el Futuro es tu fuente de información exclusiva sobre la industria automotriz, diseñada para managers y líderes que quieren mantenerse a la vanguardia. En cada episodio, analizamos las últimas tendencias, exploramos innovaciones disruptivas y ofrecemos estrategias de gestión que impulsan el éxito en un sector en constante evolución. Desde entrevistas con expertos hasta reportajes de actualidad, este podcast te brinda las herramientas para transformar desafíos en oportunidades y liderar el cambio en tu organización. ¡Acompáñanos y acelera hacia el futuro del motor de negocios!</description>
     <language>es</language>
     
     <!-- iTunes-specific metadata -->
-    <itunes:author>N2P: El Pais | Negocios</itunes:author>
-    <itunes:summary>Newsletter Empresas es un podcast diario en el que dos expertos, Juan y Carlos, os invitan a sumergiros en el análisis de las noticias más relevantes del mundo empresarial, extraídas directamente de la newsletter de "Empresas" del prestigioso periódico "El País". Con un estilo ameno y conversacional, nuestros presentadores ofrecen reflexiones y comentarios espontáneos sobre los acontecimientos tanto a nivel nacional como internacional, aportando perspectivas frescas sobre el impacto futuro de cada noticia. ¡Suscribíos y mantenedos al día en el dinámico universo de la información empresarial!</itunes:summary>
+    <itunes:author>Conduciendo al Futuro</itunes:author>
+    <itunes:summary>Conduciendo el Futuro es tu fuente de información exclusiva sobre la industria automotriz, diseñada para managers y líderes que quieren mantenerse a la vanguardia. En cada episodio, analizamos las últimas tendencias, exploramos innovaciones disruptivas y ofrecemos estrategias de gestión que impulsan el éxito en un sector en constante evolución. Desde entrevistas con expertos hasta reportajes de actualidad, este podcast te brinda las herramientas para transformar desafíos en oportunidades y liderar el cambio en tu organización. ¡Acompáñanos y acelera hacia el futuro del motor de negocios!</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Acosta</itunes:name>
       <itunes:email>luis.acosta.falcon@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="hhttps://www.darteformacion.es/wp-content/uploads/2021/09/master-coaching-online-medios8.jpg" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/resized_podcast_cover.png" />
     
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss.xml" rel="self" type="application/rss+xml" />
     
     <!-- Example item (episode) -->   
-       <item>
+
+
+<item>
   <title>"Confrontación Global: Desafíos y Oportunidades en la Industria Automotriz"</title>
   <description>Bienvenidos a "Conduciendo el Futuro", el podcast diario donde Enzo y Alex te mantienen al tanto de las noticias más relevantes del mundo automotriz. Acompáñanos mientras desglosamos los desafíos actuales que enfrenta la industria, desde la presión de los fabricantes chinos hasta las últimas innovaciones y movimientos estratégicos de empresas como Hyundai, VinFast, Honda y Porsche. Con un análisis profundo y datos impactantes, nuestro objetivo es ofrecerte un boletín informativo que no solo te mantenga informado, sino que también te ayude a entender las implicaciones detrás de cada noticia. ¡Súbete y acompáñanos a explorar el futuro del motor!</description>
   <pubDate>Sun, 16 Feb 2025 21:21:00 GMT</pubDate>
@@ -31,7 +33,58 @@
 </item>
 
 
+<item>
+  <title>"Desafíos en la Electrificación: Retos, Aranceles y Avances Tecnológicos en la Automoción"</title>
+  <description>Bienvenidos a **Conduciendo el Futuro**, el podcast que te mantiene al día con las últimas noticias del apasionante mundo de la automoción. Cada día, Enzo y Alex te traen un análisis profundo sobre las tendencias y cambios que están transformando la industria, desde la electrificación de Volkswagen y Audi hasta los retos comerciales en Estados Unidos. Descubre los avances en tecnología de seguridad, los movimientos estratégicos de General Motors y la nueva gama EV4 de Kia, así como la innovación de Hyundai con su Future Strategy Division. Únete a nosotros para explorar cómo estas noticias impactan el presente y futuro del sector automovilístico, y no te pierdas un detalle de lo que está ocurriendo en las carreteras del mundo. ¡Suscríbete y mantente en la vanguardia de la movilidad!</description>
+  <pubDate>Mon, 17 Feb 2025 19:57:04 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VxNF8D1g0YuUZjL_RNPN2_8jmLVXtA5c" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1739822224561</guid>
+</item>
+
+
+<item>
+  <title>"Transformación Eléctrica: Estrategias y Alianzas que Definen el Futuro Automotriz"</title>
+  <description>Bienvenidos a "Conduciendo el Futuro", el podcast diario donde Enzo y Alex te mantienen al tanto de las últimas novedades en el sector de la automoción. En cada episodio, analizamos las noticias más relevantes, desde la electrificación y la digitalización de los fabricantes hasta colaboraciones estratégicas y desarrollos tecnológicos innovadores. Si eres un líder o un apasionado del mundo del motor, este es tu espacio para estar siempre informado. Únete a nosotros y descubre cómo las empresas están dando forma al futuro del transporte. ¡Súbete al coche y arranquemos!</description>
+  <pubDate>Tue, 18 Feb 2025 21:50:46 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FqGDFqRJrjaODqMnrs48AAGKuQxNoBEd" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1739915446685</guid>
+</item>
+
+
+<item>
+  <title>"Reviviendo Clásicos y Enfrentando la Competencia: El Futuro del Automóvil"</title>
+  <description>Bienvenidos a "Conduciendo el Futuro", el podcast que te mantiene al día de las últimas novedades y tendencias en el fascinante mundo del automóvil. Acompáñanos en nuestras tertulias diarias donde exploramos todo, desde el auge de los coches de colección y la competencia en el mercado de vehículos eléctricos, hasta la influencia de la robótica y los cambios regulatorios. Con cada episodio, desmenuzamos historias impactantes, análisis profundos y perspectivas únicas para que no solo estés informado, sino también entretenido. Únete a nosotros y descubre cómo se está moldeando el futuro del sector automovilístico. ¡Tu viaje comienza aquí!</description>
+  <pubDate>Wed, 19 Feb 2025 22:03:43 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K7ixQocvdCjc2CeNt3g0NbHufkLY-PyG" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1740002623406</guid>
+</item>
+
+
+<item>
+  <title>"Revoluciones y Retos: Últimas Novedades en el Mundo del Automóvil"</title>
+  <description>Bienvenidos a nuestro podcast diario sobre el apasionante mundo del automóvil, donde exploramos las últimas novedades y análisis del sector. Acompáñanos mientras discutimos actualizaciones de software en coches eléctricos, resultados financieros de grandes marcas como Polestar, Mercedes-Benz y Renault, y las nuevas tendencias en movilidad sostenible. Desde emocionantes avances tecnológicos hasta desafíos en la industria, ofrecemos una visión clara y accesible de lo que está sucediendo en el mundo del motor. ¡Únete a nuestra charla entre amigos y mantente informado sobre el futuro de la movilidad!</description>
+  <pubDate>Thu, 20 Feb 2025 23:06:37 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HtrQmIVpgkpR4FA_goTHl2GIpshvfThL" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1740092797575</guid>
+</item>
+
+
+<item>
+  <title>"Transformaciones en la Automoción: Calidad, Innovación y Seguridad al Volante"</title>
+  <description>Bienvenidos a "Conduciendo el Futuro", el podcast donde las últimas noticias del mundo automotriz se presentan de manera amena y sin excesos. Únete a Enzo y Alex mientras charlan sobre las innovaciones, desafíos y novedades de la industria, desde el rumbo de marcas icónicas como Audi y Mini, hasta los avances en electrificación y conducción autónoma. Con un enfoque fresco y coloquial, te traemos un boletín diario que te mantiene al día y entretenido, como si estuvieras conversando con amigos en tu bar favorito. ¡Súbete al auto de la actualidad automotriz con nosotros y no te pierdas nada!</description>
+  <pubDate>Fri, 21 Feb 2025 19:02:57 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=125vTugG0LX3hAaNjgWSCcJaEWGeJrgBl" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1740164577619</guid>
+</item>
+
+
+<item>
+  <title>"Desafíos y Avances en la Electrificación: ¿Puede Europa Alcanzar sus Objetivos?"</title>
+  <description>Bienvenidos a nuestro podcast diario sobre la actualidad del mundo del motor y la transición hacia la electrificación. En cada episodio, Enzo y Alex se sumergen en las últimas noticias, análisis y debates sobre el sector automotriz, desde los desafíos de cumplir con los objetivos de electrificación en Europa hasta innovaciones tecnológicas como la nueva estación de carga HYC1000 de Alpitronic. Hablamos de controversias, como el túnel privado de Wolfgang Porsche, y exploramos el lanzamiento de nuevos modelos eléctricos que prometen cambiar el mercado. Únete a nosotros para mantenerte informado y reflexionar sobre la evolución de la movilidad eléctrica y su impacto en el futuro del transporte. ¡Suscríbete y no te pierdas ninguna de nuestras conversaciones!</description>
+  <pubDate>Sat, 22 Feb 2025 19:34:52 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B1uWDrO-E3hfyq-auWAmhLmWlLO7NJmi" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1740252892181</guid>
+</item>
 
 </channel>
 </rss>
-
