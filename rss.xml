@@ -126,7 +126,27 @@
 
 <item>
   <title>"Transformaciones en el Automóvil: Audi, el Modelo de Agencia y la Revolución de la Seguridad en Euro NCAP"</title>
-  <description>Bienvenidos a nuestro podcast diario donde nos sumergimos en las noticias más relevantes del mundo del motor. Cada episodio, Enzo y Alex analizan las últimas novedades que están sacudiendo el panorama automovilístico, desde estrategias comerciales de marcas como Audi hasta cambios significativos en las evaluaciones de seguridad de Euro NCAP. Nos centramos en cómo la digitalización y la seguridad están transformando la experiencia de compra y utilización de los vehículos modernos. Únete a nosotros para estar al tanto de las tendencias, curiosidades y reflexiones sobre lo que está por venir en el sector automovilístico. ¡No te lo pierdas!</description>
+  <description>
+       <p>Bienvenidos a nuestro podcast diario donde nos sumergimos en las noticias más relevantes del mundo del motor. 
+       Cada episodio, Enzo y Alex analizan las últimas novedades que están sacudiendo el panorama automovilístico, 
+       desde estrategias comerciales de marcas como Audi hasta cambios significativos en las evaluaciones de seguridad de Euro NCAP. 
+       Nos centramos en cómo la digitalización y la seguridad están transformando la experiencia de compra y utilización de los vehículos 
+       modernos. Únete a nosotros para estar al tanto de las tendencias, curiosidades y reflexiones sobre lo que está por venir en el 
+       sector automovilístico. ¡No te lo pierdas!</p>
+       <h2>Links a noticias 2</h2>
+       <ul>
+          <li><a href="https://www.latribunadeautomocion.es/2025/02/teichman-audi-iremos-hacia-el-modelo-de-agencia-cuando-sea-el-momento-adecuado/">our website</a>Teichman (Audi): «Iremos hacia el modelo de agencia cuando sea el momento adecuado»</li>
+          <li><a href="https://www.theverge.com/2024/3/5/24091043/euro-ncap-safety-rating-europe-2026-touchscreen-buttons-dials</a>Cars will need fewer screens and more buttons to earn 5-star safety rating in Europe</li>
+          <li><a href="https://www.just-auto.com/news/samsung-kia-expand-pbvs/">Samsung and Kia expand partnership to integrate SmartThings Pro into PBVs</a></li>
+          <li><a href="https://www.electrive.com/2025/02/28/xpeng-expands-to-new-european-markets/"</a>Xpeng expands to new European markets</li>
+          <li><a href="https://www.electrive.com/2025/02/28/xiaomis-su7-ultra-to-hit-the-market-at-lower-price/"</a>Xiaomi’s SU7 Ultra to hit the market at lower price</li>
+          <li><a href="https://www.electrive.com/2025/02/28/skoda-launches-series-production-of-the-new-enyaq/"</a>Skoda launches series production of the new Enyaq</li>
+          <li><a href="https://www.electrive.com/2025/02/27/audi-to-shut-down-production-in-brussels/"</a>Audi to shut down production in Brussels</li>
+          <li><a href="https://www.hibridosyelectricos.com/coches/espana-tambien-tiene-tierras-raras-estos-son-yacimientos-podrian-situarla-en-panorama-geopolitico-mundial_78688_102.html"</a>España también tiene tierras raras: estos son los yacimientos que podrían situarla en el panorama geopolítico mundial</li>
+          <li><a href="https://www.hibridosyelectricos.com/coches/denza-lanzamiento-europa-2025_78784_102.html"</a>La marca premium de BYD ya tiene fecha de llegada a Europa y viene dispuesta a plantar cara a Mercedes, Range Rover y BMW</li>
+     </ul>
+  
+  </description>
   <pubDate>Fri, 28 Feb 2025 20:40:13 GMT</pubDate>
   <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QnxsdhVbq-RTSpLY34JWWDn_rV88lKjQ" length="1234567" type="audio/mpeg" />
   <guid isPermaLink="false">1740775213035</guid>
