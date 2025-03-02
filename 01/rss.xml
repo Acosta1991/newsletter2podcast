@@ -18,7 +18,7 @@
     </itunes:owner>
     
     <!-- Fixed the image URL -->
-    <itunes:image href="https://www.darteformacion.es/wp-content/uploads/2021/09/master-coaching-online-medios8.jpg" />
+    <itunes:image href="hhttps://acosta1991.github.io/newsletter2podcast/01/news2podcast_logo_1400x1400.png" />
 
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
