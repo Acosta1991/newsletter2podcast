@@ -1,1 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Píldoras de Liderazgo</title>
+    <link>https://acosta1991.github.io/newsletter2podcast/</link>
+    <description>Píldoras de Liderazgo es el podcast esencial para jóvenes profesionales que asumen por primera vez el desafío de liderar equipos. En cada episodio breve, directo y práctico, exploraremos situaciones cotidianas del liderazgo basadas en las mejores prácticas publicadas por Harvard Business Review. Aprenderás cómo afrontar retos comunes, desde cómo establecer expectativas claras hasta resolver conflictos, negociar con eficacia y fomentar el desarrollo de tus colaboradores. Únete y toma una dosis semanal de conocimiento práctico para crecer como líder y llevar a tu equipo al siguiente nivel.</description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Píldoras de Liderazgo</itunes:author>
+    <itunes:summary>Píldoras de Liderazgo es el podcast esencial para jóvenes profesionales que asumen por primera vez el desafío de liderar equipos. En cada episodio breve, directo y práctico, exploraremos situaciones cotidianas del liderazgo basadas en las mejores prácticas publicadas por Harvard Business Review. Aprenderás cómo afrontar retos comunes, desde cómo establecer expectativas claras hasta resolver conflictos, negociar con eficacia y fomentar el desarrollo de tus colaboradores. Únete y toma una dosis semanal de conocimiento práctico para crecer como líder y llevar a tu equipo al siguiente nivel.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta.falcon@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/resized_podcast_cover.png" />
+    
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/pildoras_de_liderazgo/rss.xml" rel="self" type="application/rss+xml" />
+    
+    <!-- Example item (episode) -->   
+
+
+<item>
+  <title>"Confrontación Global: Desafíos y Oportunidades en la Industria Automotriz"</title>
+  <description>Bienvenidos a "Conduciendo el Futuro", el podcast diario donde Enzo y Alex te mantienen al tanto de las noticias más relevantes del mundo automotriz. Acompáñanos mientras desglosamos los desafíos actuales que enfrenta la industria, desde la presión de los fabricantes chinos hasta las últimas innovaciones y movimientos estratégicos de empresas como Hyundai, VinFast, Honda y Porsche. Con un análisis profundo y datos impactantes, nuestro objetivo es ofrecerte un boletín informativo que no solo te mantenga informado, sino que también te ayude a entender las implicaciones detrás de cada noticia. ¡Súbete y acompáñanos a explorar el futuro del motor!</description>
+  <pubDate>Sun, 16 Feb 2025 21:21:00 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=11vK61I9DMS3BeTjzOAF2EuHG6-csWgD5" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1739740860940</guid>
+</item>
+
+
+</channel>
+</rss>
 
