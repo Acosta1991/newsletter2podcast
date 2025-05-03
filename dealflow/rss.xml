@@ -34,7 +34,7 @@ P.D.: Este es un proyecto personal que hago los fines de semana. El resto del ti
     </itunes:owner>
     
     <!-- Fixed the image URL -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/01/news2podcast_logo_1400x1400.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/dealflow/logo.png" />
 
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
