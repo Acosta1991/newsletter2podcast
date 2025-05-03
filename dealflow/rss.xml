@@ -3,30 +3,34 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dealflow </title>
+    <title>Dealflow</title>
     <link>https://dealflow.es</link>
-    <description>Las noticias sobre el ecosistema tech y startup en España están repartidas por muchas publicaciones y periodistas. No hay un lugar único donde enterarte de todo lo que está pasando. Por eso nació Dealflow, y ahora también llega en formato podcast.
+    <description>
+         Bienvenido a Dealflow, el podcast que resume cada semana lo más relevante del ecosistema startup y tecnológico en España.
 
-Cada semana, seleccionamos a mano las noticias más relevantes del sector y te las contamos de forma clara, directa y con contexto, para que no te pierdas nada. En pocos minutos, estarás al día de lo que realmente importa en el mundo startup español.
+Está basado en la newsletter escrita por Jaime Novoa, de K Fund, y nace con la misma intención: ofrecerte una selección curada de noticias y análisis breves para que estés al día sin tener que leer decenas de publicaciones distintas.
 
-Este podcast es la versión hablada de la newsletter Dealflow, que envío cada lunes por la mañana. Una especie de resumen curado, pero también un espacio para analizar tendencias, compartir ideas y acercarte a lo que se está moviendo en el ecosistema.
+Cada episodio te ofrece, en pocos minutos, una visión clara y directa de lo que está pasando en el mundo startup español.
 
-¿Quieres estar informado sin perder tiempo? Dale al play y súmate a Dealflow.
+Dealflow empezó como un proyecto personal y se ha convertido en una referencia para muchos profesionales del sector. Ahora también puedes escucharlo, cuando quieras y donde quieras.
 
-P.D.: Este es un proyecto personal que hago los fines de semana. El resto del tiempo lo paso buscando startups en fases tempranas en las que invertir desde K Fund. Si tienes una y crees que podemos encajar, escríbenos.</description>
+¿Te interesa el ecosistema? Dale al play y acompáñanos cada semana.
+    </description>
     <language>es</language>
     
     <!-- iTunes-specific metadata -->
     <itunes:author>Dealflow| Las noticias sobre el ecosistema tech y startup en España </itunes:author>
-    <itunes:summary>Las noticias sobre el ecosistema tech y startup en España están repartidas por muchas publicaciones y periodistas. No hay un lugar único donde enterarte de todo lo que está pasando. Por eso nació Dealflow, y ahora también llega en formato podcast.
+    <itunes:summary>
+         Bienvenido a Dealflow, el podcast que resume cada semana lo más relevante del ecosistema startup y tecnológico en España.
 
-Cada semana, seleccionamos a mano las noticias más relevantes del sector y te las contamos de forma clara, directa y con contexto, para que no te pierdas nada. En pocos minutos, estarás al día de lo que realmente importa en el mundo startup español.
+Está basado en la newsletter escrita por Jaime Novoa, de K Fund, y nace con la misma intención: ofrecerte una selección curada de noticias y análisis breves para que estés al día sin tener que leer decenas de publicaciones distintas.
 
-Este podcast es la versión hablada de la newsletter Dealflow, que envío cada lunes por la mañana. Una especie de resumen curado, pero también un espacio para analizar tendencias, compartir ideas y acercarte a lo que se está moviendo en el ecosistema.
+Cada episodio te ofrece, en pocos minutos, una visión clara y directa de lo que está pasando en el mundo startup español.
 
-¿Quieres estar informado sin perder tiempo? Dale al play y súmate a Dealflow.
+Dealflow empezó como un proyecto personal y se ha convertido en una referencia para muchos profesionales del sector. Ahora también puedes escucharlo, cuando quieras y donde quieras.
 
-P.D.: Este es un proyecto personal que hago los fines de semana. El resto del tiempo lo paso buscando startups en fases tempranas en las que invertir desde K Fund. Si tienes una y crees que podemos encajar, escríbenos.</itunes:summary>
+¿Te interesa el ecosistema? Dale al play y acompáñanos cada semana.
+    </itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Acosta</itunes:name>
@@ -37,7 +41,7 @@ P.D.: Este es un proyecto personal que hago los fines de semana. El resto del ti
     <itunes:image href="https://acosta1991.github.io/newsletter2podcast/dealflow/logo.png" />
 
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
 
