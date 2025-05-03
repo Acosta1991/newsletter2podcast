@@ -1,1 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dealflow </title>
+    <link>https://dealflow.es</link>
+    <description>Las noticias sobre el ecosistema tech y startup en España están repartidas por muchas publicaciones y periodistas. No hay un lugar único donde enterarte de todo lo que está pasando. Por eso nació Dealflow, y ahora también llega en formato podcast.
 
+Cada semana, seleccionamos a mano las noticias más relevantes del sector y te las contamos de forma clara, directa y con contexto, para que no te pierdas nada. En pocos minutos, estarás al día de lo que realmente importa en el mundo startup español.
+
+Este podcast es la versión hablada de la newsletter Dealflow, que envío cada lunes por la mañana. Una especie de resumen curado, pero también un espacio para analizar tendencias, compartir ideas y acercarte a lo que se está moviendo en el ecosistema.
+
+¿Quieres estar informado sin perder tiempo? Dale al play y súmate a Dealflow.
+
+P.D.: Este es un proyecto personal que hago los fines de semana. El resto del tiempo lo paso buscando startups en fases tempranas en las que invertir desde K Fund. Si tienes una y crees que podemos encajar, escríbenos.</description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Dealflow| Las noticias sobre el ecosistema tech y startup en España </itunes:author>
+    <itunes:summary>Las noticias sobre el ecosistema tech y startup en España están repartidas por muchas publicaciones y periodistas. No hay un lugar único donde enterarte de todo lo que está pasando. Por eso nació Dealflow, y ahora también llega en formato podcast.
+
+Cada semana, seleccionamos a mano las noticias más relevantes del sector y te las contamos de forma clara, directa y con contexto, para que no te pierdas nada. En pocos minutos, estarás al día de lo que realmente importa en el mundo startup español.
+
+Este podcast es la versión hablada de la newsletter Dealflow, que envío cada lunes por la mañana. Una especie de resumen curado, pero también un espacio para analizar tendencias, compartir ideas y acercarte a lo que se está moviendo en el ecosistema.
+
+¿Quieres estar informado sin perder tiempo? Dale al play y súmate a Dealflow.
+
+P.D.: Este es un proyecto personal que hago los fines de semana. El resto del tiempo lo paso buscando startups en fases tempranas en las que invertir desde K Fund. Si tienes una y crees que podemos encajar, escríbenos.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Fixed the image URL -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/01/news2podcast_logo_1400x1400.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+
+  
+<item>
+  <title>"Renacimiento Empresarial: Fusiones, Energías Renovables y el Auge de América Latina"</title>
+  <description>Bienvenidos a "Newsletter Empresas", el podcast donde desglosamos la actualidad empresarial más relevante de España y el mundo. Conducido por Juan y su experto colega Carlos, cada episodio ofrece un análisis ameno y cercano de las noticias más impactantes, desde fusiones bancarias y tendencias en energía renovable, hasta el auge del turismo y la revolución del teletrabajo. Además, exploramos el impacto de gigantes como Tesla, Apple y Amazon en la economía global y local. Únete a nosotros para estar al tanto de lo que está sucediendo en el universo empresarial, mientras compartimos reflexiones y debates que te mantendrán informado y entretenido. ¡No te lo pierdas!</description>
+  <pubDate>Sat, 22 Feb 2025 20:50:27 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=18rreRmtz_Za-k1UAcpMYzsSqSIyA0XVn" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1740257427091</guid>
+</item>
+
+
+</channel>
+</rss>
