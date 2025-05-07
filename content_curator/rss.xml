@@ -1,1 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dealflow</title>
+    <link>https://dealflow.es</link>
+    <description>
+         Bienvenido a Dealflow, el podcast que resume cada semana lo más relevante del ecosistema startup y tecnológico en España.
 
+Está basado en la newsletter escrita por Jaime Novoa, de K Fund, y nace con la misma intención: ofrecerte una selección curada de noticias y análisis breves para que estés al día sin tener que leer decenas de publicaciones distintas.
+
+Cada episodio te ofrece, en pocos minutos, una visión clara y directa de lo que está pasando en el mundo startup español.
+
+Dealflow empezó como un proyecto personal y se ha convertido en una referencia para muchos profesionales del sector. Ahora también puedes escucharlo, cuando quieras y donde quieras.
+
+¿Te interesa el ecosistema? Dale al play y acompáñanos cada semana.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Dealflow| Las noticias sobre el ecosistema tech y startup en España </itunes:author>
+    <itunes:summary>
+         Bienvenido a Dealflow, el podcast que resume cada semana lo más relevante del ecosistema startup y tecnológico en España.
+
+Está basado en la newsletter escrita por Jaime Novoa, de K Fund, y nace con la misma intención: ofrecerte una selección curada de noticias y análisis breves para que estés al día sin tener que leer decenas de publicaciones distintas.
+
+Cada episodio te ofrece, en pocos minutos, una visión clara y directa de lo que está pasando en el mundo startup español.
+
+Dealflow empezó como un proyecto personal y se ha convertido en una referencia para muchos profesionales del sector. Ahora también puedes escucharlo, cuando quieras y donde quieras.
+
+¿Te interesa el ecosistema? Dale al play y acompáñanos cada semana.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Fixed the image URL -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/dealflow/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+
+
+<item>
+  <title>Dealflow.es #461: Harmonix raised €3.2M. Tinybird + LLMs. Daniel Lopez's (Bitnami) new co.</title>
+  <description>Bienvenidos a Dealflow Newsletter, el podcast que ofrece un resumen semanal compacto y dinámico del ecosistema startup español. Si tienes poco tiempo y quieres estar al tanto de las últimas rondas de financiación, adquisiciones y lanzamientos en el mundo de las startups, este es tu lugar. Cada semana, desglosamos lo más relevante de la newsletter de Jaime Novoa, presentado de manera clara y entretenida. Desde nuevas iniciativas en fintech y deep tech, hasta fusiones sorprendentes, aquí encontrarás la información clave que necesitas para mantenerte actualizado. ¡Suscríbete gratis en dealflow.es y no te pierdas nada de lo que está ocurriendo en el emocionante mundo de las startups!</description>
+  <pubDate>Sat, 03 May 2025 21:28:33 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fZd9sYikJTkUyQ54IF2fEvQk9Vp7FxuA" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1746307713397</guid>
+</item>
+
+
+
+<item>
+  <title>Dealflow.es #462: Krea raised $83M. Jobandtalent gets €92M. ING's Madrid tech hub.</title>
+  <description>En cada episodio de Dealflow, nos adentramos en el bullicioso ecosistema de las startups españolas con un resumen dinámico y entretenido de las noticias más relevantes. Desde rondas de financiación y movimientos estratégicos hasta historias inspiradoras de fundadores, aquí encontrarás todo lo que necesitas saber para estar al tanto. Con el toque característico de humor e ironía, nuestro objetivo es ayudarte a separar lo fundamental de lo trivial en el mundo del emprendimiento. Este podcast, impulsado por la newsletter semanal de Jaime Novoa, es tu fuente confiable para descubrir las tendencias y oportunidades en el sector, mientras te mantenemos informado y entretenido. ¡Únete a nosotros y no te pierdas nada!</description>
+  <pubDate>Sat, 03 May 2025 22:21:57 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=17pNL7BCobMtd34OszQndst706drysEdk" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1746310917733</guid>
+</item>
+
+
+<item>
+  <title>Dealflow.es #463: The Hotels Network exit. Adsmurai draws M&amp;A interest. Belvo raised €15M.</title>
+  <description>En este episodio de Dealflow Newsletter, Carlos y Toni sumergen a los oyentes en las últimas novedades del ecosistema startup y de inversión tecnológica en España. Desde las emocionantes rondas de financiación de Belvo y Kerionics, hasta movimientos estratégicos en el mercado como la adquisición de The Hotels Network, cada conversación revela el pulso vibrante de la innovación. A lo largo del capítulo, los presentadores discuten noticias de vital importancia, incluyendo el impacto de nuevas convocatorias de financiamiento y las dificultades enfrentadas por empresas como Habitissimo y Colvin. Además, la introducción de herramientas disruptivas en sectores como la telemedicina y la personalización de muebles añade un toque de optimismo. Con recomendaciones de lectura que prometen enriquecer la experiencia del emprendedor e inversor, este episodio está diseñado para mantener a su audiencia al tanto y preparada para absorber las oportunidades del dinámico mundo startup.</description>
+  <pubDate>Sun, 04 May 2025 07:40:07 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FSDiDnHNQ7hz2mGTEPWAfbsHhX_ZiBu4" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1746344407168</guid>
+</item>
+
+
+<item>
+  <title>Dealflow.es #464: TravelPerk keeps flying. Seaya acquires Baïa Food. Spanish founders outside of ES.</title>
+  <description>En este episodio de Dealflow, nos sumergimos en las últimas novedades del vibrante ecosistema startup español. Desde rondas de financiación récord hasta adquisiciones estratégicas, exploramos cómo los emprendedores españoles están innovando y expandiendo sus operaciones, tanto en el país como en el extranjero. Con un enfoque en empresas como Salsa, Cakewalk y Spotahome, analizamos su impacto y el futuro del sector. Además, discutimos las tendencias actuales en inversiones, destacando cómo los fondos españoles están mirando más allá de nuestras fronteras. También abordamos el crecimiento exponencial de TravelPerk y Housfy, y el notable papel de grandes corporaciones como Telefónica en el escenario europeo. Acompáñanos en este viaje a través de un panorama emprendedor en constante evolución, repleto de oportunidades y desafíos. ¡No te lo pierdas!</description>
+  <pubDate>Sun, 04 May 2025 08:14:46 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KDVzwVKowM5gpxunULcibSzgNOky2SSl" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1746346486823</guid>
+</item>
+
+
+<item>
+  <title>Dealflow.es #465: Freepik launches F-Lite. THN exit. Deepull raised €50M.</title>
+  <description>En este episodio de Dealflow Newsletter, nos adentramos en las últimas novedades del ecosistema de startups español y el capital riesgo tecnológico. Desde rondas de financiación impresionantes como la de Deepull, que ha logrado 50 millones de euros para acelerar su innovador diagnóstico de sepsis, hasta adquisiciones en el sector travel, como Lighthouse comprando The Hotels Network. Exploraremos cómo la inteligencia artificial está transformando desde la proptech hasta el mundo de los contenidos con Freepik y sus nuevos modelos generativos. También discutiremos la visión de futuro de PLD Space en la industria espacial y el impacto de nuevas inversiones y estrategias de coinversión en el panorama de startups. Con debates sobre fusiones, movimientos estratégicos de grandes empresas y recomendaciones de lectura clave, este episodio está diseñado para mantenerte al tanto y ofrecer una visión profunda de las tendencias que están moldeando el futuro empresarial. ¡Acompáñanos y sumérgete en el apasionante mundo del emprendimiento y la innovación!</description>
+  <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1746468371727</guid>
