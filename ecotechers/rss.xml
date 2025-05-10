@@ -1,1 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecotechers Podcast</title>
+    <link>https://ecotechers.substack.com</link>
+    <description>
+      Bienvenido a Ecotechers, el podcast basado en la newsletter independiente liderada por el periodista Jesús Martínez. Cada episodio ofrece un análisis profundo del ecosistema startup y del capital riesgo en España, con historias exclusivas, primicias, tendencias y perfiles clave del sector.
+
+Este podcast refleja la filosofía de la newsletter: aportar transparencia, profundidad y contexto crítico pero optimista al mercado. Escúchalo para estar mejor informado y tomar mejores decisiones. Suscríbete a la newsletter en ecotechers.substack.com.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Ecotechers | Startups y capital riesgo con Jesús Martínez</itunes:author>
+    <itunes:summary>
+      Bienvenido a Ecotechers, el podcast basado en la newsletter independiente liderada por el periodista Jesús Martínez. Cada episodio ofrece un análisis profundo del ecosistema startup y del capital riesgo en España, con historias exclusivas, primicias, tendencias y perfiles clave del sector.
+
+Este podcast refleja la filosofía de la newsletter: aportar transparencia, profundidad y contexto crítico pero optimista al mercado. Escúchalo para estar mejor informado y tomar mejores decisiones. Suscríbete a la newsletter en ecotechers.substack.com.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/ecotechers/logo.png" />
+
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/ecotechers/rss.xml" rel="self" type="application/rss+xml" />
+    
+    <!-- Aquí irán los ítems del podcast -->
+    
+  </channel>
+</rss>
 
