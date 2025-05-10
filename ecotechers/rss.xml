@@ -30,6 +30,15 @@ Este podcast refleja la filosofía de la newsletter: aportar transparencia, prof
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/ecotechers/rss.xml" rel="self" type="application/rss+xml" />
     
     <!-- Aquí irán los ítems del podcast -->
+
+       <item>
+  <title>Prueba</title>
+  <description>En este episodio de Dealflow Newsletter, nos adentramos en las últimas novedades del ecosistema de startups español y el capital riesgo tecnológico. Desde rondas de financiación impresionantes como la de Deepull, que ha logrado 50 millones de euros para acelerar su innovador diagnóstico de sepsis, hasta adquisiciones en el sector travel, como Lighthouse comprando The Hotels Network. Exploraremos cómo la inteligencia artificial está transformando desde la proptech hasta el mundo de los contenidos con Freepik y sus nuevos modelos generativos. También discutiremos la visión de futuro de PLD Space en la industria espacial y el impacto de nuevas inversiones y estrategias de coinversión en el panorama de startups. Con debates sobre fusiones, movimientos estratégicos de grandes empresas y recomendaciones de lectura clave, este episodio está diseñado para mantenerte al tanto y ofrecer una visión profunda de las tendencias que están moldeando el futuro empresarial. ¡Acompáñanos y sumérgete en el apasionante mundo del emprendimiento y la innovación!</description>
+  <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1746468371727</guid>
+</item>
+
     
   </channel>
 </rss>
