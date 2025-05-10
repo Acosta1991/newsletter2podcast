@@ -23,19 +23,9 @@
     
     <itunes:image href="https://acosta1991.github.io/newsletter2podcast/N2P/logo.jpg" />
 
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/ecotechers/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/N2P/rss.xml" rel="self" type="application/rss+xml" />
     
     <!-- Aquí irán los ítems del podcast -->
-
-    
-  
-<item>
-  <title>Pruba</title>
-  <description>Prueba</description>
-  <pubDate>Sat, 10 May 2025 16:47:08 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kMn0TtSfkyRpCaCvvy0XA9T41uQqvfs4" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1746895628840</guid>
-</item>
 
 </channel>
 </rss>
