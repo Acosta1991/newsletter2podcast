@@ -25,7 +25,7 @@ Este podcast refleja la filosofía de la newsletter: aportar transparencia, prof
       <itunes:email>luis.acosta@news2podcast.com</itunes:email>
     </itunes:owner>
     
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/ecotechers/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/ecotechers/logo.jpg" />
 
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/ecotechers/rss.xml" rel="self" type="application/rss+xml" />
     
