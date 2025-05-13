@@ -3,10 +3,10 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Escuchando Newsletters</title>
+    <title>Mundo Newsletters</title>
     <link>https://chusnaharro.com</link>
     <description>
-         Bienvenido a Escuchando Newsletters, el podcast basado en la newsletter de Chus Naharro, especialista en email marketing y creación de contenidos.
+         Bienvenido a Mundo Newsletters, el podcast basado en la newsletter de Chus Naharro, especialista en email marketing y creación de contenidos.
 
 Cada episodio recoge consejos prácticos, charlas con otros creadores y reflexiones sobre cómo Crear, Crecer y Monetizar newsletters. Un podcast fresco, cercano y útil para profesionales del marketing, creadores de contenido y marcas con propósito.
 
@@ -15,9 +15,9 @@ Súmate a la comunidad de +3.000 lectores que reciben cada semana inspiración e
     <language>es</language>
 
     <!-- iTunes-specific metadata -->
-    <itunes:author>Escuchando Newsletters | Chus Naharro</itunes:author>
+    <itunes:author>Mundo Newsletters | Chus Naharro</itunes:author>
     <itunes:summary>
-         Bienvenido a Escuchando Newsletters, el podcast basado en la newsletter de Chus Naharro, especialista en email marketing y creación de contenidos.
+         Bienvenido a Mundo Newsletters, el podcast basado en la newsletter de Chus Naharro, especialista en email marketing y creación de contenidos.
 
 Cada episodio recoge consejos prácticos, charlas con otros creadores y reflexiones sobre cómo Crear, Crecer y Monetizar newsletters. Un podcast fresco, cercano y útil para profesionales del marketing, creadores de contenido y marcas con propósito.
 
