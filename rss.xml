@@ -19,7 +19,7 @@
     <itunes:image href="https://acosta1991.github.io/newsletter2podcast/resized_podcast_cover.png" />
     
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anchor.fm/s/104e74d0c/podcast/rss" rel="self" type="application/rss+xml" />
     
     <!-- Example item (episode) -->   
 
