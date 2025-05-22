@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redactor Freelance Podcast</title>
+    <link>https://www.redactorfreelance.com</link>
+    <description>
+         Bienvenido al Redactor Freelance Podcast, el programa basado en los contenidos del blog creado por Roger García, redactor, traductor y bloguero con más de quince años de experiencia escribiendo por cuenta propia.
+
+Cada episodio recoge y comenta los artículos más recientes del blog, centrados en ayudar a quienes quieren vivir de la escritura: consejos prácticos, estrategias para conseguir clientes, herramientas y reflexiones sobre el mundo freelance.
+
+Una charla cercana, con experiencia real del terreno. Escúchalo cada semana y, si aún no lo haces, visita el blog en redactorfreelance.com.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Redactor Freelance Podcast | Vivir de escribir con Roger García</itunes:author>
+    <itunes:summary>
+         Bienvenido al Redactor Freelance Podcast, el programa basado en los contenidos del blog creado por Roger García, redactor, traductor y bloguero con más de quince años de experiencia escribiendo por cuenta propia.
+
+Cada episodio recoge y comenta los artículos más recientes del blog, centrados en ayudar a quienes quieren vivir de la escritura: consejos prácticos, estrategias para conseguir clientes, herramientas y reflexiones sobre el mundo freelance.
+
+Una charla cercana, con experiencia real del terreno. Escúchalo cada semana y, si aún no lo haces, visita el blog en redactorfreelance.com.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Fixed the image URL -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/redactorfreelance/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/redactorfreelance/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
