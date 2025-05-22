@@ -30,7 +30,7 @@ Una charla cercana, con experiencia real del terreno. Escúchalo cada semana y, 
     </itunes:owner>
     
     <!-- Fixed the image URL -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/redactorfreelance/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/redactorfreelance/logo.jpg" />
 
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/redactorfreelance/rss.xml" rel="self" type="application/rss+xml" />
