@@ -23,7 +23,7 @@
 
     <itunes:image href="https://acosta1991.github.io/newsletter2podcast/N2P/logo.png" />
 
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/fastlaunchr/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anchor.fm/s/1054fbef0/podcast/rss" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
 
