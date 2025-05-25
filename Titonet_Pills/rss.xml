@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titonet Pills Podcast</title>
+    <link>https://titonet.com</link>
+    <description>
+         Bienvenido a Titonet Pills Podcast, el espacio de conversación basado en la newsletter de Fernando de la Rosa, profesional digital desde 1999, cofundador de Foxize, y autor de dos libros sobre datos.
+
+Cada episodio recoge lo más valioso de la newsletter Titonet Pills: ideas clave sobre estrategia digital, datos, inteligencia artificial y negocios. Todo presentado en un formato conversacional, ágil y práctico, pensado para ayudarte a aprender más rápido y aplicar lo aprendido a tu día a día profesional.
+
+Una dosis semanal de conocimiento digital con criterio. Y si aún no lo haces, suscríbete en titonet.com.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Titonet Pills Podcast | Aprendizaje digital con Fernando de la Rosa</itunes:author>
+    <itunes:summary>
+         Bienvenido a Titonet Pills Podcast, el espacio de conversación basado en la newsletter de Fernando de la Rosa, profesional digital desde 1999, cofundador de Foxize, y autor de dos libros sobre datos.
+
+Cada episodio recoge lo más valioso de la newsletter Titonet Pills: ideas clave sobre estrategia digital, datos, inteligencia artificial y negocios. Todo presentado en un formato conversacional, ágil y práctico, pensado para ayudarte a aprender más rápido y aplicar lo aprendido a tu día a día profesional.
+
+Una dosis semanal de conocimiento digital con criterio. Y si aún no lo haces, suscríbete en titonet.com.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Fixed the image URL -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Titonet_Pills/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/Titonet_Pills/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
