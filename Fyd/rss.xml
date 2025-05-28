@@ -36,13 +36,6 @@ Un espacio cercano, útil y actualizado para quienes quieren estar al día con l
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/Fyd/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
-    <item>
-      <title>Prueba</title>
-      <description>Prueba</description>
-      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
-      <guid isPermaLink="false">1746468371727</guid>
-    </item>
 
   
 <item>
