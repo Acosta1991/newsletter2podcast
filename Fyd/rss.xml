@@ -30,7 +30,7 @@ Un espacio cercano, útil y actualizado para quienes quieren estar al día con l
     </itunes:owner>
     
     <!-- Updated the image URL to reflect new branding -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Fyd/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Fyd/logo.jpeg" />
 
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/Fyd/rss.xml" rel="self" type="application/rss+xml" />
