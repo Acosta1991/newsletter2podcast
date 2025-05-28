@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fyd, Marketing y Contenidos</title>
+    <link>https://fydcontenidos.blogspot.com</link>
+    <description>
+         Bienvenido a Fyd Podcast, el podcast basado en la newsletter de Fyd Contenidos, creada por David López, redactor y traductor con más de quince años de experiencia.
+
+Cada episodio analiza y comenta las últimas tendencias del marketing de contenidos, estrategias editoriales, herramientas para creadores y reflexiones clave sobre el sector. 
+
+Un espacio cercano, útil y actualizado para quienes quieren estar al día con lo que realmente importa en el mundo del contenido. Escúchalo cada semana, y si aún no lo haces, suscríbete a la newsletter.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Fyd | Tendencias en marketing de contenidos con David López</itunes:author>
+    <itunes:summary>
+         Bienvenido a Fyd Podcast, el podcast basado en la newsletter de Fyd Contenidos, creada por David López, redactor y traductor con más de quince años de experiencia.
+
+Cada episodio analiza y comenta las últimas tendencias del marketing de contenidos, estrategias editoriales, herramientas para creadores y reflexiones clave sobre el sector. 
+
+Un espacio cercano, útil y actualizado para quienes quieren estar al día con lo que realmente importa en el mundo del contenido. Escúchalo cada semana, y si aún no lo haces, suscríbete a la newsletter.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Updated the image URL to reflect new branding -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Fyd/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/Fyd/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
