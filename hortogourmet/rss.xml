@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horto Gourmet</title>
+    <link>https://hortogourmet.com</link>
+    <description>
+        Bienvenido a Horto Gourmet, el podcast inspirado en el blog de Daniel Vargas, un espacio donde se mezclan gastronomía, agricultura, coctelería, vinos y experiencias personales con un enfoque cercano y saludable.
+
+Cada episodio recoge historias, recetas, recomendaciones y reflexiones del universo agroalimentario, contadas con pasión y conocimiento desde el corazón del Poniente almeriense y más allá.
+
+Una charla para saborear la vida a través de los productos, las culturas y la cocina. Escúchalo cada semana, y no olvides visitar el blog en hortogourmet.com.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Horto Gourmet | Gastronomía, coctelería y comunicación agroalimentaria con Daniel Vargas</itunes:author>
+    <itunes:summary>
+        Bienvenido a Horto Gourmet, el podcast inspirado en el blog de Daniel Vargas, un espacio donde se mezclan gastronomía, agricultura, coctelería, vinos y experiencias personales con un enfoque cercano y saludable.
+
+Cada episodio recoge historias, recetas, recomendaciones y reflexiones del universo agroalimentario, contadas con pasión y conocimiento desde el corazón del Poniente almeriense y más allá.
+
+Una charla para saborear la vida a través de los productos, las culturas y la cocina. Escúchalo cada semana, y no olvides visitar el blog en hortogourmet.com.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/content_curator/logo.png" />
+
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/content_curator/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
