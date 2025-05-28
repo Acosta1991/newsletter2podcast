@@ -30,7 +30,7 @@ Una pausa consciente en medio del ruido. Escúchalo cada semana, y si aún no lo
     </itunes:owner>
     
     <!-- Fixed the image URL -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Creando_Serenidad/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Creando_Serenidad/logo.jpg" />
 
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/Creando_Serenidad/rss.xml" rel="self" type="application/rss+xml" />
