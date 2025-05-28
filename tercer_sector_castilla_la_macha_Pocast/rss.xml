@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tercer Sector Castilla-La Mancha Podcast</title>
+    <link>https://tercersectorclm.es</link>
+    <description>
+      Bienvenido al podcast del Tercer Sector Castilla-La Mancha, un espacio inspirado en nuestra newsletter y protagonizado por las organizaciones sociales más destacadas de la región.
+
+Cada episodio resume las principales iniciativas, actividades y reflexiones del sector social castellanomanchego, promoviendo la inclusión, la solidaridad, la participación ciudadana y el fortalecimiento de la sociedad civil.
+
+Una conversación cercana y bien informada sobre lo que está ocurriendo en el tejido social de nuestra comunidad. Escúchalo cada semana y suscríbete a la newsletter para mantenerte al día.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Tercer Sector Castilla-La Mancha Podcast</itunes:author>
+    <itunes:summary>
+      Bienvenido al podcast del Tercer Sector Castilla-La Mancha, un espacio inspirado en nuestra newsletter y protagonizado por las organizaciones sociales más destacadas de la región.
+
+Cada episodio resume las principales iniciativas, actividades y reflexiones del sector social castellanomanchego, promoviendo la inclusión, la solidaridad, la participación ciudadana y el fortalecimiento de la sociedad civil.
+
+Una conversación cercana y bien informada sobre lo que está ocurriendo en el tejido social de nuestra comunidad. Escúchalo cada semana y suscríbete a la newsletter para mantenerte al día.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Imagen del podcast -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/tercer_sector_castilla_la_macha_Pocast/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/tercer_sector_castilla_la_macha_Pocast/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Ejemplo de episodio -->
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
