@@ -29,9 +29,9 @@ Una charla para saborear la vida a través de los productos, las culturas y la c
       <itunes:email>luis.acosta@news2podcast.com</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/content_curator/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/hortogourmet/logo.png" />
 
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/content_curator/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/hortogourmet/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
     <item>
