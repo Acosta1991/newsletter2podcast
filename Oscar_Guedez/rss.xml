@@ -30,10 +30,10 @@ Una conversación directa y amena, para entender el presente con claridad. Escú
     </itunes:owner>
 
     <!-- Fixed the image URL -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Oscar_guedez/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Oscar_Guedez/logo.png" />
 
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/Oscar_guedez/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/Oscar_Guedez/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
     <item>
