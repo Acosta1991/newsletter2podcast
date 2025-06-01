@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chamberly Podcast</title>
+    <link>https://chamberly.substack.com</link>
+    <description>
+        Bienvenido a Chamberly Podcast, el espacio que pone voz a los contenidos de la newsletter de Salvador Lorca: análisis económico, inteligencia de mercado, tendencias sectoriales y consejos para profesionales que quieren tomar mejores decisiones y destacar en su trabajo.
+
+Cada episodio resume y comenta lo más relevante de la publicación semanal, con ejemplos reales, reflexiones expertas e ideas para aplicar en el día a día profesional.
+
+Una conversación informada, directa y útil para estar al tanto del entorno económico y profesional. Escúchalo cada semana y, si aún no lo haces, suscríbete a la newsletter en chamberly.substack.com.
+    </description>
+    <language>es</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Chamberly Podcast | Análisis económico y profesional con Salvador Lorca</itunes:author>
+    <itunes:summary>
+        Bienvenido a Chamberly Podcast, el espacio que pone voz a los contenidos de la newsletter de Salvador Lorca: análisis económico, inteligencia de mercado, tendencias sectoriales y consejos para profesionales que quieren tomar mejores decisiones y destacar en su trabajo.
+
+Cada episodio resume y comenta lo más relevante de la publicación semanal, con ejemplos reales, reflexiones expertas e ideas para aplicar en el día a día profesional.
+
+Una conversación informada, directa y útil para estar al tanto del entorno económico y profesional. Escúchalo cada semana y, si aún no lo haces, suscríbete a la newsletter en chamberly.substack.com.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/Chamberly/logo.png" />
+
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/Chamberly/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
