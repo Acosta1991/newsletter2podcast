@@ -34,32 +34,7 @@ Una conversación informada, directa y útil para estar al tanto del entorno eco
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/Chamberly/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
-    <item>
-      <title>Prueba</title>
-      <description>Prueba</description>
-      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
-      <guid isPermaLink="false">1746468371727</guid>
-    </item>
-
-  
-<item>
-  <title>Cómo el Streaming retrasó la Disrupción de la TV</title>
-  <description>En este emocionante capítulo de Chamberly Podcast, Carlos y Alejandra se sumergen en la revolución que las plataformas de streaming están causando en la industria del entretenimiento. Desde el auge de los contenidos originales hasta la adaptación de las productoras tradicionales, exploran cómo el panorama de consumo de video ha cambiado y las oportunidades que surgen en este nuevo ecosistema. ¿Puede la flexibilidad en los contratos y la colaboración con creadores de contenido ser la clave para sobrevivir? Además, analizan el dilema de la calidad frente a la cantidad y cómo captar la atención de una audiencia joven se ha convertido en el nuevo desafío para las productoras. Con una perspectiva única, Carlos y Alejandra te invitan a reflexionar sobre el futuro de la televisión y la importancia de mantenerse informado sobre las tendencias del sector a través de la newsletter Chamberly. ¡No te lo pierdas!</description>
-  <pubDate>Sun, 01 Jun 2025 09:01:53 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=11T1AMWeaT4yqbQPlSzDR6WA6hLJYrj9c" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1748768513401</guid>
-</item>
-
-
-<item>
-  <title>Re: Cómo el Streaming retrasó la Disrupción de la TV</title>
-  <description>En este episodio del Chamberly Podcast, Alex y Sam se adentran en las dinámicas revolucionarias que están redefiniendo el mundo del contenido audiovisual. Inspirados por las últimas tendencias de la newsletter de Chamberly, analizan cómo las plataformas de streaming han transformado la economía del consumo de video y el dilema del innovador que enfrentan los productores de televisión. Con un enfoque en la evolución de los contratos y el impacto de la inteligencia artificial, discuten las oportunidades y desafíos que surgen en un entorno cada vez más competitivo. Además, reflexionan sobre la necesidad de una regulación moderna que impulse la innovación y cómo los consumidores han cambiado sus hábitos en esta nueva era digital. Acompáñalos en esta fascinante conversación que seguramente dejará más preguntas que respuestas, todo mientras anticipan lo que el futuro puede deparar en la intersección de la creatividad y la estrategia empresarial.</description>
-  <pubDate>Sun, 01 Jun 2025 09:21:37 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1D9WtnJUvFlq04kTwx-RhVdOH3aCn6b0k" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1748769697279</guid>
-</item>
-
+    
 
 <item>
   <title>Cómo el Streaming retrasó la Disrupción de la TV</title>
