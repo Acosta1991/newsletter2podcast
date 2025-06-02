@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Referente Podcast</title>
+    <link>https://elreferente.es</link>
+    <description>
+        Bienvenido a El Referente Podcast, el espacio sonoro basado en el diario digital El Referente, el primer medio online en España especializado exclusivamente en startups, emprendimiento e innovación tecnológica.
+
+Cada episodio analiza, comenta y contextualiza los artículos más relevantes publicados en el periódico: desde noticias de actualidad y entrevistas hasta análisis sectoriales y columnas de opinión.
+
+Un formato pensado para mantenerte conectado con el pulso del ecosistema startup en España. Escúchalo regularmente, y accede a los artículos completos desde los enlaces incluidos en la descripción de cada episodio.
+    </description>
+    <language>es</language>
+    
+    <itunes:author>El Referente Podcast | Startups, innovación y emprendimiento</itunes:author>
+    <itunes:summary>
+        Bienvenido a El Referente Podcast, el espacio sonoro basado en el diario digital El Referente, el primer medio online en España especializado exclusivamente en startups, emprendimiento e innovación tecnológica.
+
+Cada episodio analiza, comenta y contextualiza los artículos más relevantes publicados en el periódico: desde noticias de actualidad y entrevistas hasta análisis sectoriales y columnas de opinión.
+
+Un formato pensado para mantenerte conectado con el pulso del ecosistema startup en España. Escúchalo regularmente, y accede a los artículos completos desde los enlaces incluidos en la descripción de cada episodio.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/ElReferente/logo.png" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/ElReferente/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
