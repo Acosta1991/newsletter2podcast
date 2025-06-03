@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Velneo Podcast</title>
+    <link>https://velneo.com/blog</link>
+    <description>
+         Bienvenido a Velneo Podcast, el programa basado en el blog oficial de Velneo, una plataforma española para el desarrollo ágil y visual de aplicaciones empresariales como ERP, CRM o facturación.
+
+Cada episodio comenta las novedades, consejos y casos de éxito más relevantes publicados en el blog, ofreciendo una visión clara y útil sobre cómo las empresas pueden digitalizar sus procesos con software a medida y sin complicaciones técnicas.
+
+Un espacio semanal para desarrolladores, responsables IT y empresas que quieren estar al día en soluciones empresariales eficientes, multiplataforma y totalmente personalizables. Puedes leer más en velneo punto com.
+    </description>
+    <language>es</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Veleneo Podcast | Desarrollo empresarial con Velneo</itunes:author>
+    <itunes:summary>
+         Bienvenido a Velneo Podcast, el programa basado en el blog oficial de Velneo, una plataforma española para el desarrollo ágil y visual de aplicaciones empresariales como ERP, CRM o facturación.
+
+Cada episodio comenta las novedades, consejos y casos de éxito más relevantes publicados en el blog, ofreciendo una visión clara y útil sobre cómo las empresas pueden digitalizar sus procesos con software a medida y sin complicaciones técnicas.
+
+Un espacio semanal para desarrolladores, responsables IT y empresas que quieren estar al día en soluciones empresariales eficientes, multiplataforma y totalmente personalizables. Puedes leer más en velneo punto com.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/velneo/logo.png" />
+
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/veleneo/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Ejemplo de episodio -->
+    <item>
+      <title>Prueba</title>
+      <description>Prueba</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
