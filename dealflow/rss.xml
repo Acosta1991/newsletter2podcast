@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dealflow</title>
+    <title>Dealflow Podcast</title>
     <link>https://dealflow.es</link>
     <description>
          Bienvenido a Dealflow, el podcast que resume cada semana lo más relevante del ecosistema startup y tecnológico en España.
@@ -19,7 +19,7 @@ Dealflow empezó como un proyecto personal y se ha convertido en una referencia 
     <language>es</language>
     
     <!-- iTunes-specific metadata -->
-    <itunes:author>Dealflow| Las noticias sobre el ecosistema tech y startup en España </itunes:author>
+    <itunes:author>Dealflow Podcast| Las noticias sobre el ecosistema tech y startup en España </itunes:author>
     <itunes:summary>
          Bienvenido a Dealflow, el podcast que resume cada semana lo más relevante del ecosistema startup y tecnológico en España.
 
