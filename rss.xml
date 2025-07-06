@@ -361,5 +361,28 @@ Este episodio establece las bases para comprender mejor el futuro de la automoci
   <guid isPermaLink="false">1751818542817</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 2: Hardware Electrónico en Automoción</title>
+  <description>En este episodio de "Conduciendo el Futuro", nos sumergimos en el fascinante mundo de la tecnología automotriz en nuestra serie especial "Bajo el capó digital". Acompáñanos mientras desglosamos los componentes internos de los coches modernos, en especial la Unidad de Control Electrónico (ECU). Desde su función como el cerebro del vehículo, hasta cómo se integran con sensores y actuadores, este episodio desvela los secretos que permiten que los coches sean cada vez más inteligentes y eficientes. Si alguna vez has mirado debajo del capó y te has perdido entre cables y componentes, este episodio es perfecto para ti.
+
+**Resumen de noticias:**
+
+1. **La ECU y su importancia en los coches modernos**: Exploramos la Unidad de Control Electrónico (ECU), el cerebro que gestiona funciones vitales del vehículo, y discutimos cuántas ECUs pueden encontrarse en un coche actual, que varían desde treinta hasta más de ciento cincuenta.
+
+2. **Componentes internos de las ECUs**: Analizamos los tres componentes principales de las ECUs: microcontroladores, memoria e interfaces. Hablamos sobre cómo cada uno de estos elementos contribuye al funcionamiento del coche.
+
+3. **Microcontroladores vs. SoC**: Hacemos una comparación entre microcontroladores y System on Chip (SoC), destacando sus diferencias en capacidad y uso en diversas funciones dentro del coche.
+
+4. **Sensores y actuadores en el sistema automotriz**: Explicamos cómo los sensores actúan como los sentidos del coche, mientras que los actuadores son responsables de realizar las acciones, completando así el sistema nervioso del vehículo.
+
+5. **Fuentes de alimentación y pruebas de las ECUs**: Detallamos cómo se asegura la funcionalidad de las ECUs en condiciones extremas y el proceso de desarrollo previo a su implementación en los vehículos, que incluye rigurosas pruebas de software y hardware. 
+
+Sigue con nosotros en este interesante viaje para descubrir más sobre cómo se comunican e integran estos componentes en la arquitectura del coche. ¡No te lo pierdas!</description>
+  <pubDate>Sun, 06 Jul 2025 16:27:45 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v1DV6lpwH_dsvpCvktSnQOEmPygF7-qP" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751819265870</guid>
+</item>
+
 </channel>
 </rss>
