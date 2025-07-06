@@ -384,5 +384,28 @@ Sigue con nosotros en este interesante viaje para descubrir más sobre cómo se 
   <guid isPermaLink="false">1751819265870</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 3: Redes de Comunicación en Vehículos</title>
+  <description>En este emocionante episodio de "Conduciendo el Futuro", nos sumergimos en el fascinante mundo de la tecnología automotriz, desentrañando cómo los diversos componentes electrónicos de los coches se comunican entre sí. Con un tono ameno y lleno de humor, nuestros anfitriones, Enzo y Alex, nos llevan a explorar las distintas redes de comunicación que permiten a las ECUs (Unidades de Control Electrónicas) trabajar de manera sincronizada, definiendo su papel crucial en la seguridad y funcionalidad de los vehículos actuales. Desde la red CAN, que conecta funciones esenciales, hasta la moderna Ethernet Automotriz, que permite la transmisión de grandes cantidades de datos, cada red tiene su propia función y características. ¡No te pierdas esta entrega que promete hacerte ver tu coche como un centro de datos sobre ruedas!
+
+**Lista de Noticias:**
+
+1. **Red CAN (Controller Area Network)**: La red más utilizada en automóviles que conecta las ECUs esenciales como el motor y los frenos. Es robusta y resistente a interferencias, actuando como un grupo de WhatsApp donde todos los miembros reciben mensajes relevantes, pero responden solo a lo que les afecta.
+
+2. **Red LIN (Local Interconnect Network)**: Utilizada para funciones menos críticas como el control de ventanas y asientos eléctricos. Es una red económica y sencilla, ideal para tareas cotidianas.
+
+3. **FlexRay**: Una red rápida y segura, empleada en funciones críticas como la suspensión activa. Es comparable a la fibra óptica debido a su alta velocidad, aunque es más cara y compleja de instalar.
+
+4. **Ethernet Automotriz**: La red más moderna en el sector, que permite la transmisión en tiempo real de grandes volúmenes de datos, como imágenes de cámaras y sensores. Es vital para los coches eléctricos y los que incorporan conducción asistida, asemejándose a la conexión de red que usamos en casa.
+
+5. **Interacción entre Redes**: Discutimos cómo todas estas redes coexisten en un coche, cumpliendo su función sin interferencias, y el papel del "gateway" o unidad de puerta de enlace que actúa como traductor entre las diferentes redes.
+
+Sintoniza este episodio para entender mejor cómo estos sistemas colaboran para mantener tu coche funcionando de manera óptima y segura. ¡No te lo pierdas!</description>
+  <pubDate>Sun, 06 Jul 2025 18:59:26 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gEKgtDtLk4xhMMUbOYsHU4gB9UjsDu_X" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751828366585</guid>
+</item>
+
 </channel>
 </rss>
