@@ -555,5 +555,31 @@ Mantente atento a nuestra próxima entrega, donde exploraremos la ciberseguridad
   <guid isPermaLink="false">1751926131620</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 4: Arquitectura Electrónica del Vehículo</title>
+  <description>En este episodio de "Conduciendo el Futuro", nos sumergimos en el fascinante mundo de la arquitectura electrónica de los coches modernos. Nuestros anfitriones, Enzo y Alex, desglosan la evolución de las arquitecturas automotrices, desde los sistemas distribuidos antiguos a las innovadoras arquitecturas zonales de hoy, que redefinen cómo los vehículos gestionan su tecnología interna. Hablamos sobre la importancia de la seguridad funcional y las redundancias necesarias para garantizar que nuestros coches sigan funcionando, incluso ante fallos. Prepárense para entender cómo las conexiones entre los componentes del vehículo son tan complejas como un plan urbanístico, y cómo esto impacta la conducción de hoy en día.
+
+**Noticias y Resúmenes:**
+
+1. **Arquitectura Electrónica de los Vehículos:**
+   La conversación se centra en cómo la arquitectura electrónica de los coches ha evolucionado a lo largo de los años, pasando de sistemas distribuidos a centralizados y, más recientemente, a arquitecturas zonales que mejoran la gestión de los componentes electrónicos.
+
+2. **Arquitecturas Distribuidas vs. Centralizadas:**
+   Se compara el antiguo sistema distribuido, donde cada ECU operaba de manera independiente, con las nuevas arquitecturas centralizadas que reducen el peso del coche y simplifican las actualizaciones de software, pero que también aumentan el riesgo en caso de fallo de la unidad central.
+
+3. **Arquitecturas Zonal:**
+   Se explican las arquitecturas zonales, donde el automóvil se divide en varias zonas, cada una con su propio controlador. Esta estructura permite una gestión más eficiente de los sensores y actuadores, reduciendo el cableado y potenciando la velocidad de respuesta.
+
+4. **Seguridad Funcional y Resiliencia:**
+   La importancia de la seguridad funcional se destaca en el contexto de estas arquitecturas. Los fabricantes implementan sistemas para detectar fallos, permitiendo que el coche limite su velocidad o active medidas de seguridad en caso de un problema crítico.
+
+5. **Próximo Episodio: Desarrollo del Software Automotriz:**
+   Se anticipa un emocionante próximo episodio que va a explorar el ciclo de vida del software automotriz, incluyendo su diseño, programación y pruebas, llevando a los oyentes de la arquitectura física a un mundo más invisible y técnico.</description>
+  <pubDate>Mon, 07 Jul 2025 22:19:10 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gvPi904C37y3G6Hsw7AA1SFfBMQA7YoT" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751926750014</guid>
+</item>
+
 </channel>
 </rss>
