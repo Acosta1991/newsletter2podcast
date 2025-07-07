@@ -461,6 +461,32 @@ Sintoniza este episodio para entender mejor cómo estos sistemas colaboran para 
   <guid isPermaLink="false">1751924541244</guid>
 </item>
 
+<item>
+  <title>Bajo el capó digital - Módulo 6: Estándares de la Industria y Buenas Prácticas</title>
+  <description>En este emocionante episodio de "Conduciendo el Futuro", nos adentramos en el mundo del software automotriz y los estándares que lo regulan. Acompáñanos mientras exploramos cómo estos estándares, lejos de ser simples burocracias, aseguran la seguridad y funcionalidad de los vehículos modernos. Hablamos de AUTOSAR, ISO 26262 y otros estándares cruciales como ASPICE, SOTIF y la ISO/SAE 21434, que forman un escudo invisible para nuestros coches. Aprenderemos cómo estos principios son vitales para el desarrollo de un software que no solo funciona, sino que también protege a los conductores y a los peatones de situaciones inusuales y ciberamenazas. ¡No te pierdas este vistazo a la tecnología que hace que manejar sea cada vez más seguro e inteligente!
+
+**Lista de Noticias:**
+
+1. **AUTOSAR: La Estructura Modular del Software Automotriz**
+   - Exploramos cómo este estándar global permite que el software de los coches sea modular y reutilizable, facilitando las actualizaciones y asegurando la compatibilidad entre distintos fabricantes.
+
+2. **ISO 26262: La Seguridad Funcional en el Diseño del Vehículo**
+   - Hablamos de cómo esta norma garantiza que los vehículos sigan funcionando de manera segura incluso si ocurren fallos en el sistema, con niveles de riesgo medidos en ASIL.
+
+3. **ASPICE: Auditoría del Proceso de Desarrollo de Software**
+   - Descubrimos cómo este estándar evalúa las buenas prácticas en el desarrollo del software, asegurando que los equipos sigan protocolos robustos para un resultado final fiable.
+
+4. **SOTIF: Prevención de Riesgos en Situaciones Inesperadas**
+   - Analizamos este estándar que aborda los riesgos causados por situaciones que no se pueden prever, como un coche autónomo encontrándose con un objeto inesperado.
+
+5. **ISO/SAE 21434: Ciberseguridad Automotriz**
+   - Examinamos cómo este estándar establece un marco para proteger los vehículos conectados de ataques informáticos, asegurando que los sistemas sean resistentes y manteniendo actualizaciones durante la vida útil del automóvil.</description>
+  <pubDate>Mon, 07 Jul 2025 21:42:22 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mjkOVePGAH_BrV0c-VsTYPo0Pe-x_4bR" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751927027843</guid>
+</item>
+
+
 
 <item>
   <title>Bajo el capó digital - Módulo 7: Validación, Verificación y Testing</title>
@@ -584,30 +610,6 @@ Mantente atento a nuestra próxima entrega, donde exploraremos la ciberseguridad
 
 
 
-<item>
-  <title>Bajo el capó digital - Módulo 6: Estándares de la Industria y Buenas Prácticas</title>
-  <description>En este emocionante episodio de "Conduciendo el Futuro", nos adentramos en el mundo del software automotriz y los estándares que lo regulan. Acompáñanos mientras exploramos cómo estos estándares, lejos de ser simples burocracias, aseguran la seguridad y funcionalidad de los vehículos modernos. Hablamos de AUTOSAR, ISO 26262 y otros estándares cruciales como ASPICE, SOTIF y la ISO/SAE 21434, que forman un escudo invisible para nuestros coches. Aprenderemos cómo estos principios son vitales para el desarrollo de un software que no solo funciona, sino que también protege a los conductores y a los peatones de situaciones inusuales y ciberamenazas. ¡No te pierdas este vistazo a la tecnología que hace que manejar sea cada vez más seguro e inteligente!
-
-**Lista de Noticias:**
-
-1. **AUTOSAR: La Estructura Modular del Software Automotriz**
-   - Exploramos cómo este estándar global permite que el software de los coches sea modular y reutilizable, facilitando las actualizaciones y asegurando la compatibilidad entre distintos fabricantes.
-
-2. **ISO 26262: La Seguridad Funcional en el Diseño del Vehículo**
-   - Hablamos de cómo esta norma garantiza que los vehículos sigan funcionando de manera segura incluso si ocurren fallos en el sistema, con niveles de riesgo medidos en ASIL.
-
-3. **ASPICE: Auditoría del Proceso de Desarrollo de Software**
-   - Descubrimos cómo este estándar evalúa las buenas prácticas en el desarrollo del software, asegurando que los equipos sigan protocolos robustos para un resultado final fiable.
-
-4. **SOTIF: Prevención de Riesgos en Situaciones Inesperadas**
-   - Analizamos este estándar que aborda los riesgos causados por situaciones que no se pueden prever, como un coche autónomo encontrándose con un objeto inesperado.
-
-5. **ISO/SAE 21434: Ciberseguridad Automotriz**
-   - Examinamos cómo este estándar establece un marco para proteger los vehículos conectados de ataques informáticos, asegurando que los sistemas sean resistentes y manteniendo actualizaciones durante la vida útil del automóvil.</description>
-  <pubDate>Mon, 07 Jul 2025 22:23:47 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mjkOVePGAH_BrV0c-VsTYPo0Pe-x_4bR" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1751927027843</guid>
-</item>
 
 </channel>
 </rss>
