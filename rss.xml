@@ -409,23 +409,31 @@ Sintoniza este episodio para entender mejor cómo estos sistemas colaboran para 
 
 
 <item>
-  <title>Bajo el capó digital - Módulo 4: Arquitectura Electrónica del Vehículo</title>
-  <description>En este episodio de "Conduciendo el Futuro", nos sumergimos en el fascinante mundo de la arquitectura electrónica de los vehículos modernos. Acompáñanos mientras desmitificamos cómo se organizan y comunican los componentes electrónicos de los coches, comparándolo con el urbanismo de una ciudad. Desde arquitecturas distribuidas, donde cada ECU funciona de manera independiente, hasta el emergente modelo zonal que promete más eficiencia y seguridad, exploramos cómo estos cambios están revolucionando la conducción. Además, anticipamos el viaje al mundo del software automotriz en nuestro próximo episodio. ¡No te lo pierdas!
+  <title>Bajo el capó digital - Módulo 5: Desarrollo de Software en Automoción</title>
+  <description>En este episodio de "Conduciendo el Futuro," exploramos las complejidades del desarrollo del software automotriz. Acompáñanos en un viaje entretenido y educativo donde desglosamos cómo se crea el software que opera los coches modernos. Desde la definición de requisitos hasta la programación y las pruebas, discutimos el ciclo de vida del software automotriz y la importancia de contar con un proceso riguroso. Además, descubrimos la diferencia entre el desarrollo tradicional y los métodos más ágiles utilizados en el infotainment. No te pierdas la próxima entrega, donde abordaremos la calidad y seguridad del software vehicular que garantiza nuestra confianza al volante.
 
-### Noticias del episodio:
+**Noticias y Resúmenes:**
 
-1. **Arquitectura Electrónica en Vehículos**: Hablamos sobre la evolución de la arquitectura electrónica en los coches, desde sistemas distribuidos hasta arquitecturas centralizadas para mejorar la eficiencia y reducir el peso de los vehículos.
+1. **Ciclo de Vida del Software Automotriz**
+   - Hablamos sobre las fases que atraviesa el software, desde la definición de requisitos hasta las pruebas finales, destacando su importancia en la seguridad y funcionalidad del vehículo.
 
-2. **Arquitectura Zonal**: Presentamos el innovador concepto de arquitectura zonal, que divide el coche en áreas con controladores zonales, cada uno encargado de gestionar sus funciones específicas mientras se comunica con una unidad central.
+2. **Modelo en V vs. Métodos Ágiles**
+   - Comparamos el modelo en V, un método clásico en automoción, con enfoques más flexibles y ágiles utilizados en sistemas menos críticos, como el infoentretenimiento e interactividad.
 
-3. **Seguridad y Resiliencia**: Discutimos la importancia de la seguridad funcional y cómo los fabricantes están incorporando redundancias en sistemas críticos para garantizar que el coche siga funcionando de manera segura en caso de fallos.
+3. **Software Embebido y Tiempo Real**
+   - Introducimos el concepto de software embebido, que opera integrando hardware y software para realizar tareas críticas, y la necesidad de que estas operaciones sean inmediatas para garantizar la seguridad del conductor.
 
-4. **Comparación de Sistemas**: Utilizamos analogías como un supermercado con encargados y cómo esto facilita la gestión de componentes dentro del vehículo, haciendo énfasis en la organización y eficiencia que se busca en los coches modernos.
+4. **Desarrollo Basado en Modelos**
+   - Explicamos cómo los ingenieros utilizan modelos gráficos para simular el comportamiento del sistema y convertir esos modelos automáticamente en código, lo que minimiza errores y ahorra tiempo.
 
-5. **Anticipación al Software Automotriz**: Cerramos el episodio planteando la próxima exploración del ciclo de vida del software automotriz, preparando a nuestros oyentes para un análisis detallado sobre su desarrollo y funcionamiento en el mundo del motor.</description>
-  <pubDate>Mon, 07 Jul 2025 21:38:28 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P54HzH-VbJFev6eH-dIbwJWz0sVeOlLV" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1751924308710</guid>
+5. **Trazabilidad y Documentación**
+   - Abordamos la importancia de la trazabilidad en el desarrollo del software automotriz, que permite a los ingenieros rastrear cada función y cambio, asegurando claridad y coherencia en el proceso.
+
+6. **Próximo Episodio sobre Normas y Estándares**
+   - Anunciamos el próximo episodio, donde profundizaremos en los estándares de seguridad y calidad que rigen el software automotriz y garantizan que cada coche moderno sea seguro y confiable en la carretera.</description>
+  <pubDate>Mon, 07 Jul 2025 21:42:21 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1swVWPQEPaI7PyXd6hKbZax9ngHGRTH_d" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751924541244</guid>
 </item>
 
 </channel>
