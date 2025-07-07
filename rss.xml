@@ -488,5 +488,34 @@ Mantente atento a nuestra próxima entrega, donde exploraremos la ciberseguridad
   <guid isPermaLink="false">1751925457878</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 9: Ciberseguridad en Automoción</title>
+  <description>En este episodio de "Conduciendo el Futuro", nos adentramos en el fascinante y a menudo inquietante mundo de la ciberseguridad automotriz. Conectados a internet, los coches modernos presentan enormes ventajas, pero también preocupaciones legítimas sobre su seguridad. Junto a Alex, exploramos las diversas amenazas que enfrentan los vehículos conectados, incluyendo el acceso no autorizado, el robo de datos y la manipulación remota. Además, discutimos las medidas de protección implementadas por la industria, desde firewalls automotrices hasta estándares como la ISO/SAE 21434. Únete a nosotros para entender cómo los coches no solo tienen sistemas de seguridad física, sino también defensas digitales que los protegen de hackers, y aprende la importancia de ser un usuario responsable en este nuevo ecosistema automotriz.
+
+### Noticias en este episodio:
+
+1. **Ciberseguridad automotriz: amenazas actuales**  
+   Hablamos sobre las tres principales amenazas a las que se enfrentan los coches conectados: el acceso no autorizado a funciones del vehículo, el robo de datos personales, y la manipulación remota de parámetros críticos.
+
+2. **El incidente de hacking de 2015**  
+   Recordamos el famoso caso en el que dos investigadores lograron hackear un coche en movimiento, desactivando los frenos y poniendo en evidencia la vulnerabilidad de los vehículos conectados.
+
+3. **Mecanismos de protección en los coches**  
+   Examinamos las diferentes tecnologías implementadas para proteger los vehículos, incluyendo firewalls automotrices, criptografía, autenticación y sistemas de detección de anomalías.
+
+4. **Ciberseguridad durante todo el ciclo de vida del software**  
+   También discutimos cómo la ciberseguridad se integra en todas las etapas de desarrollo de un coche, desde su diseño hasta la monitorización de amenazas en tiempo real.
+
+5. **Normativa ISO/SAE 21434**  
+   Explicamos qué implica este estándar para los fabricantes de automóviles y cómo deben gestionar los riesgos de ciberseguridad a lo largo de la vida útil del vehículo.
+
+6. **Recomendaciones para usuarios de coches conectados**  
+   Concluimos brindando consejos sobre cómo los usuarios pueden protegerse al interactuar con sus vehículos conectados, desde mantener el software actualizado hasta utilizar solo aplicaciones oficiales.</description>
+  <pubDate>Mon, 07 Jul 2025 22:02:20 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sB3wY-qfrCYs9Lzia8YOZH8YP7ukEN2r" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751925740150</guid>
+</item>
+
 </channel>
 </rss>
