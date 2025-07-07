@@ -436,5 +436,26 @@ Sintoniza este episodio para entender mejor cómo estos sistemas colaboran para 
   <guid isPermaLink="false">1751924541244</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 6: Estándares de la Industria y Buenas Prácticas</title>
+  <description>En este episodio de "Conduciendo el Futuro", nos adentramos en el apasionante mundo de los estándares que rigen el software automotriz. Alex y yo desglosamos cómo estas normas garantizan la seguridad y funcionalidad de los vehículos modernos, contrastando la tecnología que impulsa nuestros coches con la necesidad de estructuras robustas que respalden su desarrollo. Aprenderéis sobre los diferentes tipos de estándares, desde AUTOSAR hasta ISO 26262 y la importancia de la ciberseguridad, mientras os preparamos para la emocionante etapa de las pruebas en episodios futuros. ¡No os lo perdáis!
+
+### Lista de Noticias y Resúmenes:
+
+1. **AUTOSAR (Automotive Open System Architecture)**: Un estándar global que estructura el software del coche, facilitando su modularidad y actualización. Incluye la plataforma Classic para sistemas críticos y la Adaptive para funciones como la conducción autónoma.
+
+2. **ISO 26262**: Este estándar se enfoca en la seguridad funcional, asegurando que los vehículos sigan operativos y seguros incluso tras un fallo del sistema. Introduce el concepto de ASIL (Automotive Safety Integrity Level), que mide el riesgo de diferentes sistemas.
+
+3. **ASPICE**: Un estándar que evalúa los procesos de desarrollo de software en la automoción. Se centra en las buenas prácticas del equipo, asegurando que el desarrollo sea robusto y se sigan protocolos adecuados.
+
+4. **SOTIF (Safety of the Intended Functionality)**: Un estándar reciente que aborda riesgos de situaciones inesperadas, garantizando que los coches puedan responder a eventos inusuales, como un peatón en un disfraz.
+
+5. **ISO/SAE 21434**: Este estándar trata sobre la ciberseguridad automotriz, regulando la protección contra ataques informáticos en vehículos conectados. Exige un análisis constante de vulnerabilidades y actualizaciones de software a lo largo de la vida útil del coche.</description>
+  <pubDate>Mon, 07 Jul 2025 21:48:25 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gFWKQ7J5EpBFbwVDp4xR4PL2wSWr_6Ym" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751924905569</guid>
+</item>
+
 </channel>
 </rss>
