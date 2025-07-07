@@ -407,5 +407,26 @@ Sintoniza este episodio para entender mejor cómo estos sistemas colaboran para 
   <guid isPermaLink="false">1751828366585</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 4: Arquitectura Electrónica del Vehículo</title>
+  <description>En este episodio de "Conduciendo el Futuro", nos sumergimos en el fascinante mundo de la arquitectura electrónica de los vehículos modernos. Acompáñanos mientras desmitificamos cómo se organizan y comunican los componentes electrónicos de los coches, comparándolo con el urbanismo de una ciudad. Desde arquitecturas distribuidas, donde cada ECU funciona de manera independiente, hasta el emergente modelo zonal que promete más eficiencia y seguridad, exploramos cómo estos cambios están revolucionando la conducción. Además, anticipamos el viaje al mundo del software automotriz en nuestro próximo episodio. ¡No te lo pierdas!
+
+### Noticias del episodio:
+
+1. **Arquitectura Electrónica en Vehículos**: Hablamos sobre la evolución de la arquitectura electrónica en los coches, desde sistemas distribuidos hasta arquitecturas centralizadas para mejorar la eficiencia y reducir el peso de los vehículos.
+
+2. **Arquitectura Zonal**: Presentamos el innovador concepto de arquitectura zonal, que divide el coche en áreas con controladores zonales, cada uno encargado de gestionar sus funciones específicas mientras se comunica con una unidad central.
+
+3. **Seguridad y Resiliencia**: Discutimos la importancia de la seguridad funcional y cómo los fabricantes están incorporando redundancias en sistemas críticos para garantizar que el coche siga funcionando de manera segura en caso de fallos.
+
+4. **Comparación de Sistemas**: Utilizamos analogías como un supermercado con encargados y cómo esto facilita la gestión de componentes dentro del vehículo, haciendo énfasis en la organización y eficiencia que se busca en los coches modernos.
+
+5. **Anticipación al Software Automotriz**: Cerramos el episodio planteando la próxima exploración del ciclo de vida del software automotriz, preparando a nuestros oyentes para un análisis detallado sobre su desarrollo y funcionamiento en el mundo del motor.</description>
+  <pubDate>Mon, 07 Jul 2025 21:38:28 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P54HzH-VbJFev6eH-dIbwJWz0sVeOlLV" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751924308710</guid>
+</item>
+
 </channel>
 </rss>
