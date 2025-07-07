@@ -438,23 +438,31 @@ Sintoniza este episodio para entender mejor cómo estos sistemas colaboran para 
 
 
 <item>
-  <title>Bajo el capó digital - Módulo 6: Estándares de la Industria y Buenas Prácticas</title>
-  <description>En este episodio de "Conduciendo el Futuro", nos adentramos en el apasionante mundo de los estándares que rigen el software automotriz. Alex y yo desglosamos cómo estas normas garantizan la seguridad y funcionalidad de los vehículos modernos, contrastando la tecnología que impulsa nuestros coches con la necesidad de estructuras robustas que respalden su desarrollo. Aprenderéis sobre los diferentes tipos de estándares, desde AUTOSAR hasta ISO 26262 y la importancia de la ciberseguridad, mientras os preparamos para la emocionante etapa de las pruebas en episodios futuros. ¡No os lo perdáis!
+  <title>Bajo el capó digital - Módulo 7: Validación, Verificación y Testing</title>
+  <description>En este episodio de "Conduciendo el Futuro", nos adentramos en el fascinante mundo de las pruebas automotrices, explicando de manera sencilla y cercana el proceso de validación, verificación y testing del software en los coches modernos. A través de una conversación amena entre nuestros presentadores, descubrimos cómo los fabricantes aseguran que sus vehículos sean seguros y funcionales antes de que lleguen a las calles. Desde las distintas fases de pruebas hasta las tecnologías utilizadas, este episodio es una mirada profundizada y técnica al corazón digital de los automóviles.
 
-### Lista de Noticias y Resúmenes:
+**Lista de noticias y resúmenes:**
 
-1. **AUTOSAR (Automotive Open System Architecture)**: Un estándar global que estructura el software del coche, facilitando su modularidad y actualización. Incluye la plataforma Classic para sistemas críticos y la Adaptive para funciones como la conducción autónoma.
+1. **Proceso de Validación y Verificación del Software Automotriz:**
+   - Se explica la diferencia entre validación y verificación, donde la verificación asegura que el software cumple con los requisitos de diseño y la validación confirma que funciona como se espera en la vida real.
 
-2. **ISO 26262**: Este estándar se enfoca en la seguridad funcional, asegurando que los vehículos sigan operativos y seguros incluso tras un fallo del sistema. Introduce el concepto de ASIL (Automotive Safety Integrity Level), que mide el riesgo de diferentes sistemas.
+2. **Tipos de Pruebas de Software:**
+   - Desglose de las cuatro fases de pruebas: unitarias, de integración, de sistema y de aceptación, con comparaciones accesibles que ilustran cada etapa del proceso de testing.
 
-3. **ASPICE**: Un estándar que evalúa los procesos de desarrollo de software en la automoción. Se centra en las buenas prácticas del equipo, asegurando que el desarrollo sea robusto y se sigan protocolos adecuados.
+3. **Métodos de Pruebas Simuladas:**
+   - Presentación de los métodos SIL (Software-in-the-loop), PIL (Processor-in-the-loop) y HIL (Hardware-in-the-loop), explicando cómo se utilizan para detectar errores en diferentes etapas del desarrollo antes de la integración final en los vehículos.
 
-4. **SOTIF (Safety of the Intended Functionality)**: Un estándar reciente que aborda riesgos de situaciones inesperadas, garantizando que los coches puedan responder a eventos inusuales, como un peatón en un disfraz.
+4. **Simulación de Escenarios Extremos:**
+   - En el HIL, se simulan fallos de componentes y situaciones de riesgo para asegurar que el coche responde adecuadamente ante emergencias, garantizando una robusta seguridad funcional en el diseño.
 
-5. **ISO/SAE 21434**: Este estándar trata sobre la ciberseguridad automotriz, regulando la protección contra ataques informáticos en vehículos conectados. Exige un análisis constante de vulnerabilidades y actualizaciones de software a lo largo de la vida útil del coche.</description>
-  <pubDate>Mon, 07 Jul 2025 21:48:25 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gFWKQ7J5EpBFbwVDp4xR4PL2wSWr_6Ym" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1751924905569</guid>
+5. **Herramientas de Pruebas Específicas:**
+   - Introducción a herramientas como CANoe, INCA, SCALEXIO y MATLAB, utilizadas por ingenieros para simular y probar diversos aspectos del software automotriz.
+
+6. **Próximo Episodio: Diagnóstico Automotriz:**
+   - Anuncio sobre el próximo episodio, que tratará sobre cómo los coches modernos se diagnostican a sí mismos y se actualizan sin necesidad de ir al taller, invitando a la audiencia a no perderse esta intrigante temática.</description>
+  <pubDate>Mon, 07 Jul 2025 21:53:04 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rMFKDQjEzJXCuVS_IKKcfC_Ln1Kegprj" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751925184669</guid>
 </item>
 
 </channel>
