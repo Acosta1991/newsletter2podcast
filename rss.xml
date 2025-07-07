@@ -465,5 +465,28 @@ Sintoniza este episodio para entender mejor cómo estos sistemas colaboran para 
   <guid isPermaLink="false">1751925184669</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 8: Diagnóstico y Actualización del Software del Vehículo</title>
+  <description>En este episodio de "Conduciendo el Futuro", nos sumergimos en el fascinante mundo del diagnóstico y la autodiagnosis en los coches modernos. Exploramos cómo los vehículos recopilan datos en tiempo real para detectar fallos, el sistema OBD que permite a los mecánicos diagnosticar problemas sin desmontar el coche, y las innovadoras actualizaciones OTA que mejoran el rendimiento del vehículo sin necesidad de llevarlo al taller. También abordamos el intrigante concepto de mantenimiento predictivo que advierte sobre fallos inminentes, permitiendo a los propietarios estar un paso adelante. Únete a nosotros para conocer cómo el futuro ya está presente en la automoción y descubre qué nos depara el camino técnico que está por venir.
+
+### Noticias cubiertas en este episodio:
+
+1. **Diagnóstico on-board (OBD)**: Los coches modernos están equipados con sistemas que monitorean constantemente el funcionamiento de sus componentes. Cuando detectan un error, generan un código que puede ser leído por un mecánico a través de herramientas de diagnóstico, facilitando la identificación de problemas sin la necesidad de desmontar el vehículo.
+
+2. **Unified Diagnostic Services (UDS)**: Un sistema avanzado que no solo permite leer errores, sino también realizar pruebas y reconfigurar ciertos sistemas del vehículo. Este método permite diagnosticar y probar funciones sin necesidad de abrir el coche.
+
+3. **Actualizaciones Over-The-Air (OTA)**: Esta tecnología permite actualizar el software del vehículo de manera remota, corrigiendo fallos y mejorando funciones sin necesidad de llevarlo al taller. Las actualizaciones son seguras y se realizan bajo condiciones controladas.
+
+4. **Mantenimiento predictivo**: Los coches modernos recopilan y analizan datos en tiempo real, como el desgaste de componentes críticos. Esto permite anticipar posibles fallos y notificar al conductor antes de que se conviertan en problemas serios, akin a cómo un reloj inteligente monitoriza la salud del usuario.
+
+5. **Funciones adicionales bajo demanda**: Algunas marcas permiten activar nuevas funciones en el vehículo mediante suscripciones, como asientos calefaccionados, ofreciendo una experiencia personalizada similar a servicios de streaming como Netflix. 
+
+Mantente atento a nuestra próxima entrega, donde exploraremos la ciberseguridad en la automoción.</description>
+  <pubDate>Mon, 07 Jul 2025 21:57:37 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ihH1YWWJJvTVsFZ5QG5b3PSvFu82z1k5" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1751925457878</guid>
+</item>
+
 </channel>
 </rss>
