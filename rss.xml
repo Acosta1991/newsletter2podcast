@@ -376,5 +376,30 @@ En este episodio de *Conduciendo el Futuro*, damos inicio a una nueva sección t
   <guid isPermaLink="false">1752184526413</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 2: Hardware Electrónico en Automoción</title>
+  <description>En este episodio de "Conduciendo el Futuro", profundizamos en el fascinante mundo del hardware electrónico en los vehículos modernos. En la continuación de nuestra serie especial "Bajo el Capó Digital", exploramos cómo las Unidades de Control Electrónico (ECUs) actúan como los cerebros del automóvil, gestionando y coordinando una multitud de funciones esenciales. Desde su evolución en los años setenta hasta su complejidad actual, desglosamos cómo estas unidades reciben y procesan datos de sensores, ejecutan órdenes mediante actuadores y requieren una gestión de energía eficiente. También analizamos la diferencia entre microcontroladores y los más avanzados Systems on Chip (SoC), además de la crucial labor que llevan a cabo los sensores y actuadores. En esta discusión, nos enfocamos en la fiabilidad del hardware y cómo los fabricantes prueban y validan cada componente antes de ser instalado en un vehículo.
+
+**Noticias y Resúmenes:**
+
+1. **Evolución de las ECUs:** Desde los años setenta, las Unidades de Control Electrónico han evolucionado desde sistemas simples hasta complejas redes que gestionan funciones críticas del vehículo, demostrando la importancia del hardware en la automoción moderna.
+
+2. **Microcontroladores vs. SoC:** Se analiza la diferencia clave entre los microcontroladores, ideales para tareas críticas, y los Systems on Chip, que ofrecen una capacidad de procesamiento superior para funciones más complejas, como sistemas de infoentretenimiento.
+
+3. **Funcionamiento de Sensores:** Los sensores, considerados los sentidos del vehículo, son fundamentales para la recolección de datos del entorno y, por lo tanto, son críticos para la precisión de los sistemas de seguridad y rendimiento.
+
+4. **Actuadores y su Importancia:** Los actuadores convierten las señales eléctricas en acciones mecánicas, siendo esenciales para la ejecución de órdenes de las ECUs. La fiabilidad de estos componentes es crucial para el funcionamiento seguro del coche.
+
+5. **Gestión de Energía en Vehículos Modernos:** La transición de sistemas eléctricos de 12 voltios a 48 voltios en vehículos híbridos y eléctricos permite el funcionamiento eficiente de componentes que requieren más potencia sin sobrecargar circuitos tradicionales.
+
+6. **Desarrollo y Validación de Componentes Electrónicos:** Los rigurosos procesos de prueba y validación aseguran que cada componente resista condiciones extremas y mantenga la fiabilidad, crucial para el rendimiento y la seguridad del vehículo.
+
+En el próximo episodio, nos centraremos en las redes de comunicación dentro de los vehículos, analizando cómo se conectan estas complejas interacciones y su importancia para el funcionamiento integral del automóvil. ¡No te lo pierdas!</description>
+  <pubDate>Fri, 11 Jul 2025 17:25:48 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XPSIIO7XO4tFAKs8y9RPV4H2OcFmmYsB" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1752254748577</guid>
+</item>
+
 </channel>
 </rss>
