@@ -427,5 +427,44 @@ En este episodio de *Conduciendo el Futuro*, continuamos nuestra serie especial 
   <guid isPermaLink="false">1752270036699</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 4: Arquitectura Electrónica del Vehículo</title>
+  <description>**Descripción del Episodio:**
+En este episodio de "Conduciendo el Futuro", nos sumergimos en el fascinante mundo de la arquitectura electrónica de los vehículos modernos. Continuando con nuestra serie especial "Bajo el Capó Digital", exploramos la evolución de cómo se organizan electrónicamente los coches, desde la clásica arquitectura distribuida basada en ECUs independientes hasta la emergente y eficiente arquitectura zonal. Discutimos los retos y beneficios de estas transiciones, incluyendo la seguridad funcional, la resiliencia y la importancia de los controladores de dominio. Acompáñanos para entender cómo estos cambios están moldeando el futuro de la automoción.
+
+**Lista de Noticias y Resúmenes:**
+
+1. **Arquitectura Distribuida en Vehículos**  
+   Se inicia el análisis explicando la arquitectura distribuida clásica, donde las ECUs independientes cumplen funciones específicas, permitiendo un desarrollo modular y facilitando la gestión de proyectos en la industria automotriz.
+
+2. **Problemas de la Arquitectura Distribuida**  
+   Se discuten las complicaciones que surgen con la acumulación de ECUs, incluyendo el incremento del peso, la complejidad del cableado y la dificultad en el diagnóstico y mantenimiento.
+
+3. **Transición a Arquitecturas Centralizadas**  
+   Se describe el cambio a arquitecturas centralizadas, donde se agrupan múltiples funciones en unas pocas ECUs, lo que simplifica el sistema eléctrico y optimiza la comunicación entre componentes.
+
+4. **Desafíos de las Arquitecturas Centralizadas**  
+   Se exponen los desafíos que enfrentan estas arquitecturas, incluyendo la complejidad de la integración y los riesgos asociados con fallos en una ECU central.
+
+5. **Arquitecturas Zonales y su Ventaja**  
+   Se introduce el concepto de arquitectura zonal, que optimiza la gestión del sistema dividiendo el coche en zonas específicas, reduciendo cableado y mejorando la velocidad de comunicación.
+
+6. **Controladores de Dominio**  
+   Se explica cómo los controladores de dominio agrupan funciones por naturaleza funcional, facilitando la comunicación y mejorando la escalabilidad, contribuyendo a una organización más eficiente del vehículo.
+
+7. **Importancia de la Seguridad Funcional**  
+   Se destaca el papel crucial de la seguridad funcional en la arquitectura electrónica, asegurando que el sistema siga funcionando de manera segura ante posibles fallos.
+
+8. **Redundancia y Resiliencia en Sistemas Electrónicos**  
+   Se aborda la necesidad de redundancia y resiliencia en la arquitectura electrónica, garantizando que los vehículos mantengan su funcionalidad incluso en caso de fallos, adaptándose inteligentemente a las situaciones adversas.
+
+9. **Futuro de las Arquitecturas Electrónicas en Automoción**  
+   Se concluye con una visión sobre cómo las arquitecturas zonales y los controladores de dominio están sentando las bases para el futuro del automóvil, subrayando la importancia de la integración de hardware y software en el diseño moderno de vehículos.</description>
+  <pubDate>Fri, 11 Jul 2025 21:52:59 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_HxqHmrZQR7EfY-RvVqQdBXayxJL8Rdd" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1752270779338</guid>
+</item>
+
 </channel>
 </rss>
