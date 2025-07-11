@@ -401,5 +401,31 @@ En el próximo episodio, nos centraremos en las redes de comunicación dentro de
   <guid isPermaLink="false">1752254748577</guid>
 </item>
 
+
+<item>
+  <title>Bajo el capó digital - Módulo 3: Redes de Comunicación en Vehículos</title>
+  <description>### Descripción del Episodio
+En este episodio de *Conduciendo el Futuro*, continuamos nuestra serie especial "Bajo el Capó Digital" explorando en profundidad las redes de comunicación internas que permiten que los vehículos modernos funcionen como un sistema integrado. Desde el bus LIN, que se ocupa de funciones básicas, hasta el Ethernet Automotriz, la autopista de datos de los coches actuales, analizamos cómo estas tecnologías se complementan y contribuyen a la evolución de la automoción. Sumérgete con nosotros en los detalles técnicos y descubre por qué la comunicación entre componentes es esencial para el rendimiento y la seguridad de los vehículos.
+
+### Lista de Noticias y Resúmenes
+
+1. **Redes internas de comunicación en automoción**: Discutimos la evolución de las redes de comunicación dentro de los vehículos y su necesidad en un mundo automotor cada vez más complejo. La transición de un sistema de cableado punto a punto a redes digitales permite una mayor eficiencia y facilita la integración de múltiples funciones.
+
+2. **Bus CAN (Controller Area Network)**: Analizamos el bus CAN, el estándar de comunicación más utilizado en la industria automotriz que permite a los diferentes sistemas del vehículo intercambiar información de manera eficaz. Hablamos sobre su éxito, ventajas y algunas de sus limitaciones en términos de velocidad y ciberseguridad.
+
+3. **Bus LIN (Local Interconnect Network)**: Presentamos el bus LIN, diseñado para tareas más simples donde se prioriza la economía y la simplicidad. Aunque su velocidad de transmisión es menor, es esencial para gestionar funciones cotidianas como elevalunas eléctricos y climatización.
+
+4. **FlexRay**: Exploramos FlexRay, una red avanzada que ofrece alta velocidad y redundancia, ideal para sistemas críticos como suspensiones activas y control de estabilidad. También se discuten sus costos y complejidades en comparación con redes más simples.
+
+5. **Ethernet Automotriz**: Conocemos el Ethernet Automotriz, que lleva la comunicación automotriz a nuevas alturas de velocidad y capacidad de datos, permitiendo manejar información compleja necesaria para funciones avanzadas, como la conducción autónoma y los sistemas de infoentretenimiento.
+
+6. **Arquitectura mixta en vehículos modernos**: Hacemos un resumen sobre cómo diferentes redes, desde LIN hasta Ethernet, trabajan juntas en una arquitectura mixta dentro de los vehículos, optimizando costes y eficiencia en las funciones que desempeñan.
+
+7. **Importancia de los gateways**: Por último, discutimos el papel crucial de los gateways que actúan como intermediarios entre las distintas redes, asegurando una comunicación fluida y efectiva en todo el sistema del vehículo.</description>
+  <pubDate>Fri, 11 Jul 2025 21:40:36 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nK6iP4QdiG0Dv_CuYtUd2FS1dZ3TxHhA" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1752270036699</guid>
+</item>
+
 </channel>
 </rss>
