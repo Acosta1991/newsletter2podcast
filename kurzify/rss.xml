@@ -3,17 +3,17 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kuzify | Audio cursos generados por IA</title>
+    <title>Kuzify | Cursos Gratuitos</title>
     <link>https://kuzify.com</link>
     <description>
-      Kuzify es una plataforma de audio cursos impulsada por inteligencia artificial. Cada episodio es una guía auditiva pensada para que aprendas de forma rápida, cómoda y desde cualquier lugar. Desde ciberseguridad hasta inversión inmobiliaria, descubre nuevos temas en formato microlearning, estructurados en módulos claros y conversacionales. Aprende en tus trayectos, paseos o mientras haces tareas. Tu curiosidad, al oído.
+      Kuzify es una plataforma de audio cursos gratuitos impulsada por inteligencia artificial. Cada episodio es una guía auditiva pensada para que aprendas de forma rápida, cómoda y desde cualquier lugar. Desde ciberseguridad hasta inversión inmobiliaria, descubre nuevos temas en formato microlearning, estructurados en módulos claros y conversacionales. Aprende en tus trayectos, paseos o mientras haces tareas. Tu curiosidad, al oído.
     </description>
     <language>es</language>
 
     <!-- iTunes-specific metadata -->
     <itunes:author>Kuzify | Audio cursos generados por IA</itunes:author>
     <itunes:summary>
-      Kuzify es una plataforma de audio cursos impulsada por inteligencia artificial. Cada episodio es una guía auditiva pensada para que aprendas de forma rápida, cómoda y desde cualquier lugar. Aprende de lo que quieras, cuando quieras.
+      Kuzify es una plataforma de audio cursos gratuitos impulsada por inteligencia artificial. Cada episodio es una guía auditiva pensada para que aprendas de forma rápida, cómoda y desde cualquier lugar. Aprende de lo que quieras, cuando quieras.
     </itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
