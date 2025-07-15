@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuzify | Audio cursos generados por IA</title>
+    <link>https://kuzify.com</link>
+    <description>
+      Kuzify es una plataforma de audio cursos impulsada por inteligencia artificial. Cada episodio es una guía auditiva pensada para que aprendas de forma rápida, cómoda y desde cualquier lugar. Desde ciberseguridad hasta inversión inmobiliaria, descubre nuevos temas en formato microlearning, estructurados en módulos claros y conversacionales. Aprende en tus trayectos, paseos o mientras haces tareas. Tu curiosidad, al oído.
+    </description>
+    <language>es</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Kuzify | Audio cursos generados por IA</itunes:author>
+    <itunes:summary>
+      Kuzify es una plataforma de audio cursos impulsada por inteligencia artificial. Cada episodio es una guía auditiva pensada para que aprendas de forma rápida, cómoda y desde cualquier lugar. Aprende de lo que quieras, cuando quieras.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Kuzify</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/kurzify/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://kuzify.com/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Ejemplo de episodio -->
+    <item>
+      <title>Módulo 1: Introducción a la Ciberseguridad</title>
+      <description>Descubre qué es la ciberseguridad, cómo ha evolucionado y por qué es esencial en el mundo digital actual. Un episodio perfecto para iniciarte en este campo fundamental.</description>
+      <pubDate>Mon, 15 Jul 2025 10:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9"  length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">modulo1-intro-ciberseguridad</guid>
+    </item>
+
+  </channel>
+</rss>
