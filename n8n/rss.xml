@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>n8n Automation Digest</title>
+    <link>https://news2podcast.com</link>
+    <description>
+         Welcome to *n8n Automation Digest*, the podcast inspired by the official n8n blog — your go-to source for mastering workflow automation.
+
+Each episode breaks down key ideas from the blog, covering practical use cases, platform tips, and emerging trends in low-code automation. Whether you're building your first automation or scaling complex processes, this show helps you stay sharp, save time, and do more with less.
+
+Listen weekly, and if you haven’t yet, explore the full blog at n8n.io/blog.
+    </description>
+    <language>en</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>n8n Automation Digest | Smart workflows for modern teams</itunes:author>
+    <itunes:summary>
+         Welcome to *n8n Automation Digest*, the podcast inspired by the official n8n blog — your go-to source for mastering workflow automation.
+
+Each episode breaks down key ideas from the blog, covering practical use cases, platform tips, and emerging trends in low-code automation. Whether you're building your first automation or scaling complex processes, this show helps you stay sharp, save time, and do more with less.
+
+Listen weekly, and if you haven’t yet, explore the full blog at n8n.io/blog.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Updated image -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/n8n/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/n8n/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Test Episode</title>
+      <description>This is a test episode based on n8n's blog content.</description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
