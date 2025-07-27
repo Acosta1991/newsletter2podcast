@@ -44,5 +44,16 @@ Listen weekly, and if you haven’t yet, explore the full blog at n8n.io/blog.
       <guid isPermaLink="false">1746468371727</guid>
     </item>
 
-  </channel>
+  
+<item>
+  <title>MCP will be the death of low-code automation, and other spooky stories</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. 
+
+In this episode of the n eight n Podcasts, hosts Alex and Chris delve into the promising yet complex world of Modern Control Protocol (MCP) and its role in the evolution of AI agents. They unpack the framework's potential to streamline user interactions with large language models (LLMs) while addressing critical challenges such as security vulnerabilities, high costs, and issues of backward compatibility. Drawing insights from Andrew Green's blog post, the discussion highlights the responsibilities vendors hold in securing their MCP servers and the implications of inadequate security measures. Moreover, the hosts explore cost management strategies when using AI APIs, emphasizing the need for technical optimization. As they navigate the intricacies of MCP, they also touch upon the difficulties of integrating multi-source queries and discuss potential pathways toward more effective multi-agent architectures. With an eye toward the future, they ponder how the rapid adoption of MCP may give rise to more secure, refined alternatives. Tune in for a thorough exploration of the hurdles and innovations that lie ahead in the realm of workflow automation and AI integration.</description>
+  <pubDate>Sun, 27 Jul 2025 17:53:34 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=12YWwk0G_bxPuRxPdnFkdXqQ81vzql1dK" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753638814392</guid>
+</item>
+
+</channel>
 </rss>
