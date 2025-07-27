@@ -103,5 +103,16 @@ With an eye on the future, they examine the orchestration of MCP agents and the 
   <guid isPermaLink="false">1753649710667</guid>
 </item>
 
+
+<item>
+  <title>MCP will be the death of low-code automation, and other spooky stories</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. 
+
+In this episode of the n eight n Podcast, we dive deep into the complexities of Minimal Capability Protocol (MCP) and its impact on low-code automation. Inspired by Andrew Green's thought-provoking blog post, we explore the burgeoning world of AI agents and the challenges MCP faces, including significant security vulnerabilities and adoption hurdles. Our hosts engage in a lively discussion about what MCP entails, the implications of its immaturity for users, and the responsibilities that shift to vendors as they implement this evolving protocol. We also dissect the critical issues around cost management and the necessity for effective API interactions, as well as the limitations posed by a single-platform focus that could hinder multi-agent workflows. With a cautious outlook on MCP’s future adoption in production environments, this episode offers vital insights into the trends that will shape no-code automation and the crucial intersection between security, efficiency, and user experience. Join us as we navigate these pressing topics and equip you with knowledge to thrive in the ever-changing landscape of automation technology.</description>
+  <pubDate>Sun, 27 Jul 2025 21:01:17 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=112HCTM-uHxZDyPieQyGbSih0w3bW2LJw" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753650077031</guid>
+</item>
+
 </channel>
 </rss>
