@@ -55,5 +55,16 @@ In this episode of the n eight n Podcasts, hosts Alex and Chris delve into the p
   <guid isPermaLink="false">1753638814392</guid>
 </item>
 
+
+<item>
+  <title>MCP will be the death of low-code automation, and other spooky stories</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. 
+
+In this episode of the n eight n Podcasts, we delve into a thought-provoking exploration of the Model Chain Protocol (MCP), inspired by Andrew Green's blog post, "MCP will be the death of low-code automation, and other spooky stories." Join us as we dissect the promising yet perilous landscape of MCP in AI agents, discussing critical challenges surrounding security vulnerabilities, cost management, and orchestration complexities. With alarming statistics on command injection flaws and unrestricted access vulnerabilities, we highlight the urgent need for fortified security measures and effective cost optimization strategies. The conversation also touches on the necessity of backwards compatibility and the implications of model supply chain security. As we peer into MCP’s future, we contemplate its role in production environments and the potential for established players like Google to reshape the protocol landscape. Tune in for a comprehensive analysis that emphasizes the evolving nature of this technology and the ongoing adaptation required to navigate its hurdles successfully. Don't miss out on vital insights that could inform your understanding of low-code automation’s future!</description>
+  <pubDate>Sun, 27 Jul 2025 17:57:25 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yoC7KAgAqTRjdocWBZL7ubHSB-K1C9Ss" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753639045716</guid>
+</item>
+
 </channel>
 </rss>
