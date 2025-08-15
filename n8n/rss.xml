@@ -3,51 +3,101 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News to Podcast</title>
+    <title>n8n Automation Digest</title>
     <link>https://news2podcast.com</link>
-    <description>News2Podcast turns written content—news, newsletters, blog posts, and articles—into high-quality audio, allowing users to stay informed in a practical and accessible way. Using advanced artificial intelligence, we convert this content into podcasts with natural-sounding voices, making it easy to listen while you drive, work, or go about your daily activities. Our platform is designed both for listeners who want news and long-form content in audio format and for media outlets and content creators looking to expand their reach through automated podcasts. With News2Podcast, information reaches you in a comfortable and immersive way.</description>
+    <description>
+         Welcome to *n8n Automation Digest*, the podcast inspired by the official n8n blog — your go-to source for mastering workflow automation.
+
+Each episode breaks down key ideas from the blog, covering practical use cases, platform tips, and emerging trends in low-code automation. Whether you're building your first automation or scaling complex processes, this show helps you stay sharp, save time, and do more with less.
+
+Listen weekly, and if you haven’t yet, explore the full blog at n8n.io/blog.
+    </description>
     <language>en</language>
-    
+
     <!-- iTunes-specific metadata -->
-    <itunes:author>News2Podcast | Business</itunes:author>
-    <itunes:summary>Newsletter Empresas is a daily podcast where two experts invite you to dive into the most relevant business news and long-form written content—newsletters, blog posts, and articles—drawing directly from sources such as the "Empresas" newsletter of the renowned newspaper El País. With an engaging, conversational style, the hosts offer reflections and spontaneous commentary on national and international events, providing fresh perspectives on the potential future impact of each story. Subscribe to stay up to date in the dynamic world of business information!</itunes:summary>
+    <itunes:author>n8n Automation Digest | Smart workflows for modern teams</itunes:author>
+    <itunes:summary>
+         Welcome to *n8n Automation Digest*, the podcast inspired by the official n8n blog — your go-to source for mastering workflow automation.
+
+Each episode breaks down key ideas from the blog, covering practical use cases, platform tips, and emerging trends in low-code automation. Whether you're building your first automation or scaling complex processes, this show helps you stay sharp, save time, and do more with less.
+
+Listen weekly, and if you haven’t yet, explore the full blog at n8n.io/blog.
+    </itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Acosta</itunes:name>
       <itunes:email>luis.acosta@news2podcast.com</itunes:email>
     </itunes:owner>
-    
-    <!-- Fixed the image URL -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/01/news2podcast_logo_1400x1400.png" />
+
+    <!-- Updated image -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/n8n/logo.png" />
 
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/n8n/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
-    <item>
-      <title>"Business Renaissance: Mergers, Renewable Energies, and the Rise of Latin America"</title>
-      <description>Welcome to "Newsletter Empresas," the podcast where we break down the most relevant business news from Spain and around the world. Hosted by two experts, each episode offers a friendly, approachable analysis of the most impactful stories—from bank mergers and renewable-energy trends to the boom in tourism and the evolution of remote work. We also explore the impact of giants like Tesla, Apple, and Amazon on both the global and local economy. Join us to stay on top of what’s happening in the business universe, as we share reflections and debates that will keep you informed and entertained. Don’t miss it!</description>
-      <pubDate>Sat, 22 Feb 2025 20:50:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18rreRmtz_Za-k1UAcpMYzsSqSIyA0XVn" length="1234567" type="audio/mpeg" />
-      <guid isPermaLink="false">1740257427091</guid>
-    </item>
 
-  
+
 <item>
-  <title>Write emails to humans, not inboxes</title>
-  <description>In this episode of our podcast, we're exploring the art of humanizing marketing, specifically through the often-overlooked medium of email communication. Join us as we discuss how brands can transform their email marketing strategies by recognizing that each email address belongs to a genuine person with unique interests and demands. 
+  <title>MCP will be the death of low-code automation, and other spooky stories</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. 
 
-We kick things off by emphasizing the importance of obtaining explicit consent—showing respect for your audience and fostering trust from the outset. Dive into the concept of "email foreplay," where we highlight the significance of building anticipation and connection before sending out your messages. Learn how to offer exclusive content, tailor your emails to audience interests, and entice potential subscribers with value-driven freebies.
+In this episode of the n eight n Podcast, we dive deep into the complexities of Minimal Capability Protocol (MCP) and its impact on low-code automation. Inspired by Andrew Green's thought-provoking blog post, we explore the burgeoning world of AI agents and the challenges MCP faces, including significant security vulnerabilities and adoption hurdles. Our hosts engage in a lively discussion about what MCP entails, the implications of its immaturity for users, and the responsibilities that shift to vendors as they implement this evolving protocol. We also dissect the critical issues around cost management and the necessity for effective API interactions, as well as the limitations posed by a single-platform focus that could hinder multi-agent workflows. With a cautious outlook on MCP’s future adoption in production environments, this episode offers vital insights into the trends that will shape no-code automation and the crucial intersection between security, efficiency, and user experience. Join us as we navigate these pressing topics and equip you with knowledge to thrive in the ever-changing landscape of automation technology.</description>
+  <pubDate>Sun, 27 Jul 2025 21:01:17 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=112HCTM-uHxZDyPieQyGbSih0w3bW2LJw" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753650077031</guid>
+</item>
 
-As we unpack the essentials, we stress the importance of clear communication, transparent intentions, and the goal of nurturing an engaged community rather than inflating numbers. Tune in for actionable tips that encourage personalization and relationship-building, ensuring your emails serve as valuable resources in your subscribers' lives. 
 
-By the end of the episode, you'll walk away with key strategies to help humanize your marketing efforts and transform your email list into a thriving, engaged community. Don’t miss this insightful discussion aimed at reshaping the way brands connect with their audiences!</description>
-  <pubDate>Fri, 15 Aug 2025 18:03:25 GMT</pubDate>
-  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yhFVk13vylH8rSkmbj2mICS02jzhrYi7" length="1234567" type="audio/mpeg" />
-  <guid isPermaLink="false">1755281005171</guid>
+<item>
+  <title>7 Best AI Agent Builders: An Expert Market Breakdown</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. 
+
+In this episode of the n eight n Podcast, we dive deep into the evolving landscape of AI agent builders, inspired by an illuminating blog article from Yulia Dmitrievna, Eduard Parsadanyan, and Andrew Green. Join us as we unravel the complexities of these powerful tools that help organizations harness AI's full potential while overcoming integration challenges. We discuss the two main categories of AI agent builders—workflow-based and non-workflow-based—and detail how they effectively blend large language models with operational logic to deliver reliable, structured outputs.
+
+We'll break down various platforms, from innovative startups like Dify and Vellum to established players like Camunda, illustrating how their unique functionalities can cater to differing organizational needs. You'll learn why utilizing an AI agent builder can save time and resources, helping teams transition swiftly from proof of concept to production-ready solutions. 
+
+Additionally, we provide key insights on selecting the right AI agent builder for your specific requirements, considering factors like ease of use, integrations, and cost efficiency. Whether you’re a technical expert or a business leader looking to enhance workflow automation, this episode equips you with the knowledge to optimize your AI deployment strategy. Tune in for a rich discussion filled with practical takeaways and expert analysis!</description>
+  <pubDate>Sun, 27 Jul 2025 21:08:55 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1246NcP7nrOuvCIfKl5jRwUIqyrjJoSPB" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753650535199</guid>
+</item>
+
+
+<item>
+  <title>Beyond the Hype: 10 Best AI Agents That Truly Work</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. 
+
+In this episode of the n eight n Podcast, hosts Alex and Chris take a comprehensive look at the latest advancements in AI agents and their transformative potential heading into 2025. Discover the five powerful types of AI agents making waves this year, including software engineering agents like Google Jules and Cline, dynamic voice interaction tools from ElevenLabs and Hume.ai, groundbreaking research agents such as Perplexity and Kortix AI Suna, data analysis tools like Julius AI and BambooAI, and innovative UI navigation solutions with Convergence AI Proxy and Skyvern. 
+
+Listeners will gain insights into how these technologies are reshaping workflows, enabling automation, and the importance of seamless integration within existing systems, particularly through the versatile platform n eight n. With user-friendly customization options, n eight n empowers individuals to create tailored AI solutions for their specific business needs. Join us as we explore not only the capabilities of these agents but also how anyone can harness their power to enhance productivity and efficiency in their operations.</description>
+  <pubDate>Sun, 27 Jul 2025 21:19:59 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=10ZJ44iriiwi6d_r1Qp7bKCaKj7nJ3xg9" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753651199128</guid>
+</item>
+
+
+<item>
+  <title>What Is AI Sentiment Analysis and How to Build It with n8n?</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. You can also support my work using the following link to try ElevenLabs and create your own project: https://try.elevenlabs.io/ds0cvdfiufax
+
+In this episode of n eight n Podcasts, hosts Alex and Chris unpack the transformative technology of AI sentiment analysis. They delve into what sentiment analysis is, how it uses natural language processing and machine learning to interpret the emotional tone behind text, and why this capability is crucial for modern businesses. With advancements in large language models and user-friendly automation platforms like n eight n, even those without extensive data science backgrounds can now leverage sentiment analysis for decision-making. From tracking brand perception to automating customer support, the hosts share practical examples and illustrate how to build effective workflows using intuitive tools. Join them as they explore the various types of sentiment analysis, the efficiency of multi-agent systems, and the power of automation in gaining actionable insights from text data—all without the need for extensive coding knowledge. This enlightening discussion provides a comprehensive overview for businesses looking to harness the power of AI sentiment analysis in their strategies.</description>
+  <pubDate>Tue, 29 Jul 2025 17:32:41 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YiCdv1AQXhxq4eAsG9W2QM-s6WnBep5Q" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1753810361306</guid>
+</item>
+
+
+
+<item>
+  <title>New plan, no active workflow limits — n8n's new pricing explained.</title>
+  <description>If you have feedback or want to build something similar, contact Luis at Luis.acosta@news2podcast.com. You can also support my work using the following link to try ElevenLabs and create your own project: https://try.elevenlabs.io/ds0cvdfiufax
+
+In this episode of the N Eight N Podcast, hosts Alex and Chris delve into the recent transformative updates to N Eight N's pricing structure, spurred by extensive community feedback. They discuss how traditional pricing models often hinder innovation and experimentation, leading N Eight N to overhaul its approach. Listeners will learn about the elimination of limits on active workflows across all plans, allowing for unlimited creativity without the worry of mounting costs. The introduction of the Business Plan is also highlighted, which caters to growing teams with advanced collaboration tools and enterprise-grade security features. Furthermore, Chris and Alex break down how the new execution-based pricing model enables enterprises to scale without budget constraints. Fostering a climate of innovation, collaboration, and cost predictability, this episode is a must-listen for anyone interested in maximizing their automation potential with N Eight N. Tune in to discover how these changes can revolutionize the way you build and scale automations!</description>
+  <pubDate>Tue, 12 Aug 2025 07:22:40 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I0L5wqMABuN2JQw2-5ZiOj8z3mSUvJYH" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1754983360655</guid>
 </item>
 
 </channel>
 </rss>
-
-
