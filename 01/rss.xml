@@ -23,16 +23,21 @@
     <!-- Atom self-reference -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/rss_01.xml" rel="self" type="application/rss+xml" />
 
-    <!-- Example item (episode) -->
-    <item>
-      <title>"Business Renaissance: Mergers, Renewable Energies, and the Rise of Latin America"</title>
-      <description>Welcome to "Newsletter Empresas," the podcast where we break down the most relevant business news from Spain and around the world. Hosted by two experts, each episode offers a friendly, approachable analysis of the most impactful stories—from bank mergers and renewable-energy trends to the boom in tourism and the evolution of remote work. We also explore the impact of giants like Tesla, Apple, and Amazon on both the global and local economy. Join us to stay on top of what’s happening in the business universe, as we share reflections and debates that will keep you informed and entertained. Don’t miss it!</description>
-      <pubDate>Sat, 22 Feb 2025 20:50:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18rreRmtz_Za-k1UAcpMYzsSqSIyA0XVn" length="1234567" type="audio/mpeg" />
-      <guid isPermaLink="false">1740257427091</guid>
-    </item>
 
-  </channel>
+  
+<item>
+  <title>Write emails to humans, not inboxes</title>
+  <description>In this episode of our podcast, we're exploring the art of humanizing marketing, specifically through the often-overlooked medium of email communication. Join us as we discuss how brands can transform their email marketing strategies by recognizing that each email address belongs to a genuine person with unique interests and demands. 
+
+We kick things off by emphasizing the importance of obtaining explicit consent—showing respect for your audience and fostering trust from the outset. Dive into the concept of "email foreplay," where we highlight the significance of building anticipation and connection before sending out your messages. Learn how to offer exclusive content, tailor your emails to audience interests, and entice potential subscribers with value-driven freebies.
+
+As we unpack the essentials, we stress the importance of clear communication, transparent intentions, and the goal of nurturing an engaged community rather than inflating numbers. Tune in for actionable tips that encourage personalization and relationship-building, ensuring your emails serve as valuable resources in your subscribers' lives. 
+
+By the end of the episode, you'll walk away with key strategies to help humanize your marketing efforts and transform your email list into a thriving, engaged community. Don’t miss this insightful discussion aimed at reshaping the way brands connect with their audiences!</description>
+  <pubDate>Fri, 15 Aug 2025 18:03:25 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yhFVk13vylH8rSkmbj2mICS02jzhrYi7" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1755281005171</guid>
+</item>
+
+</channel>
 </rss>
-
-
