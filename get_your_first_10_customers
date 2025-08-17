@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get Your First 10 Customers</title>
+    <link>https://acosta1991.github.io/get_your_first_10_customers</link>
+    <description>
+         Welcome to "Get Your First 10 Customers", the podcast for MicroSaaS founders who want to go from zero to something real. 
+         
+Each week we summarize and discuss the top posts from the subreddit micro-saas, breaking down practical lessons on customer acquisition, growth, and survival as a founder.
+
+Learn directly from real founders’ stories and insights, in a clear and accessible audio format.
+    </description>
+    <language>en</language>
+    
+    <!-- iTunes-specific metadata -->
+    <itunes:author>Get Your First 10 Customers | Hosted by Luis Acosta</itunes:author>
+    <itunes:summary>
+         Welcome to "Get Your First 10 Customers", the podcast for MicroSaaS founders who want to go from zero to something real. 
+
+Each week we summarize and discuss the top posts from the subreddit micro-saas, breaking down practical lessons on customer acquisition, growth, and survival as a founder.
+
+Learn directly from real founders’ stories and insights, in a clear and accessible audio format.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Luis Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- Podcast logo -->
+    <itunes:image href="https://acosta1991.github.io/get_your_first_10_customers/logo.png" />
+
+    <!-- Atom self-reference -->
+    <atom:link href="https://acosta1991.github.io/get_your_first_10_customers/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Episode 1 - Get Your First 10 Customers</title>
+      <description>
+        In this episode we dive into the top three posts from the subreddit micro-saas this week, exploring how founders are landing their first customers, what’s working, and the lessons you can apply today.
+      </description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rss>
