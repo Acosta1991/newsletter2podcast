@@ -4,47 +4,56 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get Your First 10 Customers</title>
-    <link>https://kurzify.com</link>
+    <link>https://reddit.com/r/microsaas</link>
     <description>
-         Welcome to "Get Your First 10 Customers", the podcast for MicroSaaS founders who want to go from zero to something real. 
-         
-Each week we summarize and discuss the top posts from the subreddit micro-saas, breaking down practical lessons on customer acquisition, growth, and survival as a founder.
+         Getting your first customers is the hardest step for any MicroSaaS founder.
 
-Learn directly from real founders’ stories and insights, in a clear and accessible audio format.
+Get Your First 10 Customers is the podcast that helps you go from zero to traction by breaking down the top lessons shared every day in the subreddit micro-saas.
+
+Each episode summarizes the most valuable posts and comments from real founders: how they found their first users, what channels actually worked, the mistakes they made, and the creative tactics they tried.
+
+No theory. No fluff. Just raw insights you can apply right now to win your first customers and start building trust in your product.
+
+🎯 New episodes every day.
     </description>
     <language>en</language>
     
     <!-- iTunes-specific metadata -->
-    <itunes:author>Get Your First 10 Customers</itunes:author>
+    <itunes:author>Get Your First 10 Customers | MicroSaaS Lessons from Reddit</itunes:author>
     <itunes:summary>
-         Welcome to "Get Your First 10 Customers", the podcast for MicroSaaS founders who want to go from zero to something real. 
+         Getting your first customers is the hardest step for any MicroSaaS founder.
 
-Each week we summarize and discuss the top posts from the subreddit micro-saas, breaking down practical lessons on customer acquisition, growth, and survival as a founder.
+Get Your First 10 Customers is the podcast that helps you go from zero to traction by breaking down the top lessons shared every day in the subreddit micro-saas.
 
-Learn directly from real founders’ stories and insights, in a clear and accessible audio format.
+Each episode summarizes the most valuable posts and comments from real founders: how they found their first users, what channels actually worked, the mistakes they made, and the creative tactics they tried.
+
+No theory. No fluff. Just raw insights you can apply right now to win your first customers and start building trust in your product.
+
+🎯 New episodes every day.
     </itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
-      <itunes:name>Luis Acosta</itunes:name>
+      <itunes:name>Acosta</itunes:name>
       <itunes:email>luis.acosta@news2podcast.com</itunes:email>
     </itunes:owner>
     
     <!-- Podcast logo -->
-    <itunes:image href="https://acosta1991.github.io/get_your_first_10_customers/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/content_curator/logo.png" />
 
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/get_your_first_10_customers/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/content_curator/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
     <item>
-      <title>Episode 1 - Get Your First 10 Customers</title>
+      <title>Episode 1 - Just Hit $13 MRR 🎉</title>
       <description>
-        In this episode we dive into the top three posts from the subreddit micro-saas this week, exploring how founders are landing their first customers, what’s working, and the lessons you can apply today.
+        In this first daily episode, we discuss a founder’s journey after one month: 73 users, 1 paying customer, and the SEO strategies that are starting to work.
       </description>
-      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <pubDate>Mon, 18 Aug 2025 07:00:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
       <guid isPermaLink="false">1746468371727</guid>
     </item>
 
   </channel>
 </rss>
+
