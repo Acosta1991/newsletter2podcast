@@ -45,17 +45,6 @@ No theory. No fluff. Just raw insights you can apply right now to win your first
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers
 /rss.xml" rel="self" type="application/rss+xml" />
 
-    <!-- Example item (episode) -->
-    <item>
-      <title>Episode 1 - Just Hit $13 MRR 🎉</title>
-      <description>
-        In this first daily episode, we discuss a founder’s journey after one month: 73 users, 1 paying customer, and the SEO strategies that are starting to work.
-      </description>
-      <pubDate>Mon, 18 Aug 2025 07:00:00 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
-      <guid isPermaLink="false">1746468371727</guid>
-    </item>
-
   
 <item>
   <title>Micro-SaaS Reality Check: Early Wins, Real Pain Points, and Busting the Easy-Money Myth</title>
