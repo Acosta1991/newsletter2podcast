@@ -38,12 +38,10 @@ No theory. No fluff. Just raw insights you can apply right now to win your first
     </itunes:owner>
     
     <!-- Podcast logo -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers
-/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers/logo.png" />
 
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers
-/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
     <item>
