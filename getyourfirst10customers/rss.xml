@@ -38,10 +38,12 @@ No theory. No fluff. Just raw insights you can apply right now to win your first
     </itunes:owner>
     
     <!-- Podcast logo -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers
+/logo.png" />
 
     <!-- Atom self-reference -->
-    <atom:link href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/getyourfirst10customers
+/rss.xml" rel="self" type="application/rss+xml" />
 
     <!-- Example item (episode) -->
     <item>
@@ -54,6 +56,21 @@ No theory. No fluff. Just raw insights you can apply right now to win your first
       <guid isPermaLink="false">1746468371727</guid>
     </item>
 
-  </channel>
+  
+<item>
+  <title>Micro-SaaS Reality Check: Early Wins, Real Pain Points, and Busting the Easy-Money Myth</title>
+  <description>Sponsor: www.kuzify.com
+
+In this episode of "Get Your First 10 Customers," we delve into the essential strategies MicroSaaS founders can employ to gain early traction and build a sustainable business. Join us as we break down insights from the subreddit dedicated to MicroSaaS, where we explore a founder's impressive leap to $13 MRR in just one month, harnessing powerful tools like listing sites, building in public, and SEO. We also analyze successful tactics from a sales data enrichment tool creator who achieved considerable customer feedback through trials and clear problem-solving.
+
+As we navigate through various posts, we emphasize the importance of a realistic approach to MicroSaaS—a rejection of the “get rich quick” mentality for a focus on patient growth, customer satisfaction, and product reliability. We round off our discussion with actionable insights for founders, including early SEO implementations, customer-driven trials, and the significance of maintaining product integrity.
+
+Tune in for a riveting episode that strengthens your MicroSaaS journey with community-driven advice and a grounded perspective on achieving those invaluable first 10 customers!</description>
+  <pubDate>Mon, 18 Aug 2025 09:17:46 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=15ZQVLc8pRAzY7_bcYl5FQpVV5CuPEf9B" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1755508666434</guid>
+</item>
+
+</channel>
 </rss>
 
