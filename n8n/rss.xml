@@ -113,5 +113,14 @@ Finally, we discuss how n eight n empowers users to build customized agents that
 </item>
 
 
+
+<item>
+  <title>Practical Evaluation Methods for Enterprise-Ready LLMs</title>
+  <description>In this episode of n eight n Podcasts, hosts Alex and Chris delve into the critical topic of evaluating enterprise-ready Large Language Models (LLMs). With the rapid integration of AI into various applications, understanding how to assess the accuracy, safety, and reliability of LLMs has never been more essential. They outline practical evaluation methods, categorizing them into Matches and Similarity, Code Evaluations, LLM-as-Judge, and Safety Evaluations, each tailored to different use cases—from generating technical documents to automating internal processes. Listeners will learn how to implement these evaluations within n eight n, ensuring AI workflows are both effective and trustworthy. Tune in to discover how to elevate your automation strategies with robust evaluation techniques, ensuring your applications are truly production-ready. Don’t miss out on actionable insights and tips for leveraging n eight n's features for optimal performance!</description>
+  <pubDate>Fri, 05 Sep 2025 19:27:37 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C10DQF7nuksLdofi5-liEb82IzHznW3h" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1757100457664</guid>
+</item>
+
 </channel>
 </rss>
