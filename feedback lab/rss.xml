@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FeedbackLab — Píldoras de liderazgo Pharma</title>
+    <link>https://feedbacklab.es</link>
+    <description>
+      Bienvenido a FeedbackLab, el pódcast donde el clon digital de Enric Miquel, headhunter especializado en lifescience, comparte pequeñas píldoras de conocimiento para ayudar a líderes de la industria farmacéutica a mejorar sus habilidades de liderazgo, comunicación y gestión de equipos.
+
+      Cada episodio ofrece ideas prácticas, ejemplos reales y reflexiones aplicables a vuestro día a día: cómo dar feedback sin generar resistencia, cómo preparar conversaciones difíciles, cómo entrevistar con criterio y cómo convertir la presión en claridad y acción.
+
+      Está patrocinado por FeedbackLab, la herramienta que te permite simular y mejorar conversaciones difíciles y entrevistas de trabajo. Al finalizar cada episodio, te invitamos a entrar en feedbacklab.es para poner en práctica lo aprendido.
+    </description>
+    <language>es</language>
+
+    <!-- iTunes-specific metadata -->
+    <itunes:author>FeedbackLab | Liderazgo y comunicación en Pharma </itunes:author>
+    <itunes:summary>
+      Bienvenido a FeedbackLab, el pódcast donde el clon digital de Enric Miquel, headhunter especializado en lifescience, comparte pequeñas píldoras de conocimiento para ayudar a líderes de la industria farmacéutica a mejorar sus habilidades de liderazgo, comunicación y gestión de equipos.
+
+      Cada episodio ofrece ideas prácticas, ejemplos reales y reflexiones aplicables a vuestro día a día en farma. Patrocinado por FeedbackLab, la herramienta para simular y mejorar conversaciones difíciles y entrevistas de trabajo. Ponlo en práctica en feedbacklab.es.
+    </itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Acosta</itunes:name>
+      <itunes:email>luis.acosta@news2podcast.com</itunes:email>
+    </itunes:owner>
+
+    <!-- Fixed the image URL (GitHub link preserved) -->
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/feedback/logo.png" />
+
+    <!-- Atom self-reference (GitHub link preserved) -->
+    <atom:link href="https://acosta1991.github.io/newsletter2podcast/feedbacklab/rss.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Example item (episode) -->
+    <item>
+      <title>Episodio piloto — Cómo dar feedback sin generar resistencia</title>
+      <description>
+        El clon digital de Enric Miquel comparte un marco simple para dar feedback claro y respetuoso, reducir la defensividad y transformar las conversaciones difíciles en acuerdos concretos. Patrocinado por FeedbackLab: ponlo en práctica hoy mismo en feedbacklab.es.
+      </description>
+      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
+      <guid isPermaLink="false">1746468371727</guid>
+    </item>
+
+  </channel>
+</rs
