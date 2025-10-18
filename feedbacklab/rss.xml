@@ -33,17 +33,6 @@
     <!-- Atom self-reference (GitHub link preserved) -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/feedbacklab/rss.xml" rel="self" type="application/rss+xml" />
 
-    <!-- Example item (episode) -->
-    <item>
-      <title>Episodio piloto — Cómo dar feedback sin generar resistencia</title>
-      <description>
-        El clon digital de Enric Miquel comparte un marco simple para dar feedback claro y respetuoso, reducir la defensividad y transformar las conversaciones difíciles en acuerdos concretos. Patrocinado por FeedbackLab: ponlo en práctica hoy mismo en feedbacklab.es.
-      </description>
-      <pubDate>Mon, 05 May 2025 18:06:11 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nq6WqqDsc1i15S_kHpjqDtqbbaMPG3Q9" length="1234567" type="audio/mpeg" />
-      <guid isPermaLink="false">1746468371727</guid>
-    </item>
-
   
 <item>
   <title>Cómo manejar conversaciones difíciles en la industria Life Sciences</title>
