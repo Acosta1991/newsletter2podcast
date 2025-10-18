@@ -28,7 +28,7 @@
     </itunes:owner>
 
     <!-- Fixed the image URL (GitHub link preserved) -->
-    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/feedback/logo.png" />
+    <itunes:image href="https://acosta1991.github.io/newsletter2podcast/feedbacklab/logo.png" />
 
     <!-- Atom self-reference (GitHub link preserved) -->
     <atom:link href="https://acosta1991.github.io/newsletter2podcast/feedbacklab/rss.xml" rel="self" type="application/rss+xml" />
