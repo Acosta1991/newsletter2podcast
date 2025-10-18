@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FeedbackLab — Píldoras de liderazgo Pharma</title>
+    <title>Feedback Lab — Píldoras de liderazgo Pharma</title>
     <link>https://feedbacklab.es</link>
     <description>
       Bienvenido a FeedbackLab, el pódcast donde el clon digital de Enric Miquel, headhunter especializado en lifescience, comparte pequeñas píldoras de conocimiento para ayudar a líderes de la industria farmacéutica a mejorar sus habilidades de liderazgo, comunicación y gestión de equipos.
@@ -15,7 +15,7 @@
     <language>es</language>
 
     <!-- iTunes-specific metadata -->
-    <itunes:author>FeedbackLab | Liderazgo y comunicación en Pharma </itunes:author>
+    <itunes:author>Feedback Lab | Liderazgo y comunicación en Pharma </itunes:author>
     <itunes:summary>
       Bienvenido a FeedbackLab, el pódcast donde el clon digital de Enric Miquel, headhunter especializado en lifescience, comparte pequeñas píldoras de conocimiento para ayudar a líderes de la industria farmacéutica a mejorar sus habilidades de liderazgo, comunicación y gestión de equipos.
 
