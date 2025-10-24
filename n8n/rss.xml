@@ -154,5 +154,20 @@ Tune in for a deep dive that is not only informative but also practical, as the 
   <guid isPermaLink="false">1761338717631</guid>
 </item>
 
+
+<item>
+  <title>Implementing Rerankers in Your AI Workflows</title>
+  <description>Sponsor: www.genflowdocs.com
+
+In this episode of n eight n Podcasts, co-hosts Alex and Chris delve into the intricacies of advanced retrieval-augmented generation (RAG) and its impact on workflow automation. They start by exploring the significance of document ordering in retrieval processes and how reranking models enhance the user experience by prioritizing the most relevant results. Through relatable examples, such as search engines, they highlight the critical nature of user expectations and satisfaction when searching for information.
+
+Listeners will gain insights into the reranking process, discussing the deployment options available for organizations, including API models, cloud-hosted options, and self-hosted solutions. Alex and Chris also review popular tools for implementing rerankers, both open-source and commercial, as well as the architectural considerations of bi-encoders and cross-encoders. They further touch on the use of large language models for reranking and how users can easily implement this feature in their workflows using the n eight n platform.
+
+Join them as they conclude that the thoughtful integration of grouping and reranking documents not only enhances retrieval efficiency but also creates intelligent workflows, paving the way for improved productivity and automation. Don't miss this opportunity to deepen your understanding of RAG technology and how it can revolutionize your approach to information retrieval!</description>
+  <pubDate>Fri, 24 Oct 2025 20:49:36 GMT</pubDate>
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qhwoiYnezTsk2KzxNQnhU6eDohI82xOx" length="1234567" type="audio/mpeg" />
+  <guid isPermaLink="false">1761338976471</guid>
+</item>
+
 </channel>
 </rss>
